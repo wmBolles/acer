@@ -121,3 +121,4 @@ When the next window pops up showing a massive checklist of different analyzers,
 <img width="1050" height="650" alt="Screenshot From 2026-06-16 06-47-37" src="https://github.com/user-attachments/assets/e628145a-bd52-4764-bdb2-9f25e31ae253" />
 
 You've got the exact right window open. But right now, you are staring at a blank text box, and because this is stripped vendor firmware, searching for a friendly text string like "SYS_PWROK" or "VRM_READY" is going to return absolutely zero results.
+<img width="1687" height="981" alt="image" src="https://github.com/user-attachments/assets/cae83ea4-6578-4ec4-b158-e4dea0da2ff9" />

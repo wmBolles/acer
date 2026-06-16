@@ -39,7 +39,7 @@ int13floppy1200 int13floppy720 int13floppy2880 int9keyboard int10video acpi usb 
 <img width="2496" height="1493" alt="bios" src="https://github.com/user-attachments/assets/207001f1-2236-4b81-a0b8-7181fa09af89" />
 
 # Reverse engineering the Acer Predator G9-793 firmware.
-### 1. Downloading the BIOS
+### Downloading the BIOS
 https://www.acer.com/us-en/support/product-support/G9-793/NH.Q1VEB.001/downloads
 <img width="1434" height="363" alt="acer" src="https://github.com/user-attachments/assets/da33092a-3da2-426a-b1b8-e714f3b550a5" />
 ### Ensure you have a robust archive tool installed:

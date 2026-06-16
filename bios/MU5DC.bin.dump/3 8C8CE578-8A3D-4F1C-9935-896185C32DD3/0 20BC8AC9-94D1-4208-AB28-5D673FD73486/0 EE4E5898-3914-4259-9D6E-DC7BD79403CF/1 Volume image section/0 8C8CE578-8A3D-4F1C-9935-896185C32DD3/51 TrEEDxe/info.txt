@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TrEEDxe
+Offset: D9968h
+Full size: 701Ah (28698)
+Header size: 18h (24)
+Body size: 7002h (28674)
+File GUID: C05ED2D1-5DDE-4B6E-A1AE-0B306ACB42BC
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FDh, valid
+Data checksum: AAh, valid

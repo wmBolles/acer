@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SmmControl2OnSmmControlThunk
+Offset: 7F458h
+Full size: 6092h (24722)
+Header size: 18h (24)
+Body size: 607Ah (24698)
+File GUID: B55A4515-5895-4EA8-845B-75B7480F6502
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F2h, valid
+Data checksum: AAh, valid

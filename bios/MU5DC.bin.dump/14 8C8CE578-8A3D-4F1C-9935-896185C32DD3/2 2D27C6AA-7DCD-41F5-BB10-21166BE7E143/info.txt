@@ -1,0 +1,15 @@
+Type: File
+Subtype: Raw
+Base: EC12F8h
+Header address: FFEC00E8h
+Data address: FFEC0100h
+Offset: E8h
+Full size: ED8h (3800)
+Header size: 18h (24)
+Body size: EC0h (3776)
+File GUID: 2D27C6AA-7DCD-41F5-BB10-21166BE7E143
+Type: 01h
+Attributes: 00h
+State: F8h
+Header checksum: 5Dh, valid
+Data checksum: AAh, valid

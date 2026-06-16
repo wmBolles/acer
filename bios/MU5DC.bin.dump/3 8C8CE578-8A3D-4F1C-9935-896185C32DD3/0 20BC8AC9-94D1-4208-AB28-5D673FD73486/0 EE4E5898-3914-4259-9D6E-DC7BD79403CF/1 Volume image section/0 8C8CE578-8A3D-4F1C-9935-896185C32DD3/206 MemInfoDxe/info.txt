@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: MemInfoDxe
+Offset: 444270h
+Full size: A3Eh (2622)
+Header size: 18h (24)
+Body size: A26h (2598)
+File GUID: 525B672C-8C8F-0361-AE8E-565EE0F563B8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 12h, valid
+Data checksum: AAh, valid

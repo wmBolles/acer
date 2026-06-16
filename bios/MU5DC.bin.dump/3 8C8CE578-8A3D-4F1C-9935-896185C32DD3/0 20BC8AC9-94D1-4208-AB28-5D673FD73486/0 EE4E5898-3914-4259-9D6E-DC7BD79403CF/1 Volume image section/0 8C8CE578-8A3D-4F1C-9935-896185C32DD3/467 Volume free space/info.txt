@@ -1,0 +1,6 @@
+Type: Free space
+Subtype: 
+Offset: F36750h
+Full size: 8B0h (2224)
+Body size: 8B0h (2224)
+

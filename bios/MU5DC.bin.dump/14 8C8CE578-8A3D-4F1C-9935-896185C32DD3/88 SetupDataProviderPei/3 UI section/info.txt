@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: F27CB0h
+Header address: FFF26AA0h
+Data address: FFF26AA4h
+Offset: 41B8h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: SetupDataProviderPei

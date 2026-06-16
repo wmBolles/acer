@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CpuPolicyPei
+Base: F0C8F8h
+Header address: FFF0B6E8h
+Data address: FFF0B700h
+Offset: 4B6E8h
+Full size: 3F66h (16230)
+Header size: 18h (24)
+Body size: 3F4Eh (16206)
+File GUID: A82FD804-A182-0361-4979-B6DB2872DF03
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 3Ch, valid
+Data checksum: AAh, valid

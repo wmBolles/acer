@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: TbtSmm
+Offset: 433920h
+Full size: 9086h (36998)
+Header size: 18h (24)
+Body size: 906Eh (36974)
+File GUID: 5BDCD685-D80A-42E6-9867-A84CCE7F828E
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: F4h, valid
+Data checksum: AAh, valid

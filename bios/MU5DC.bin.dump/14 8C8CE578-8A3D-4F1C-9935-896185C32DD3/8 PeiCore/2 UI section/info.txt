@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: ECCB90h
+Header address: FFECB980h
+Data address: FFECB984h
+Offset: 4F18h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 15h
+Text: PeiCore

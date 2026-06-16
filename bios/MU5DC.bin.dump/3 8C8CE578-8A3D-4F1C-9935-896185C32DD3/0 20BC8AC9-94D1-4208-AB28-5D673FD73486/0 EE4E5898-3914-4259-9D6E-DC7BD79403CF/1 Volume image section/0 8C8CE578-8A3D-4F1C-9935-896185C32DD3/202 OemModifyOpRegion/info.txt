@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OemModifyOpRegion
+Offset: 43D7D0h
+Full size: 22CAh (8906)
+Header size: 18h (24)
+Body size: 22B2h (8882)
+File GUID: 346B093A-9002-4E99-A2F2-27A16C3DCD89
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

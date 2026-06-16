@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: A01SysPasswordSmm
+Offset: 5A9DB8h
+Full size: 1ABEh (6846)
+Header size: 18h (24)
+Body size: 1AA6h (6822)
+File GUID: 4658B698-EAB5-647A-987A-5A1665478FF6
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 02h, valid
+Data checksum: AAh, valid

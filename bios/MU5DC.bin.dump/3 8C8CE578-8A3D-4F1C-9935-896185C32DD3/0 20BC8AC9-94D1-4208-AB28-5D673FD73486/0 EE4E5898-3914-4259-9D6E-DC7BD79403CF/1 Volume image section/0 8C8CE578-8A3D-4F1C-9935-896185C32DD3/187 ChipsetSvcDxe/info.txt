@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: ChipsetSvcDxe
+Offset: 407550h
+Full size: CBE2h (52194)
+Header size: 18h (24)
+Body size: CBCAh (52170)
+File GUID: 9B0FF2C0-E245-11E1-8EFF-D0DF9A35C106
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 05h, valid
+Data checksum: AAh, valid

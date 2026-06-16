@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: EDCED0h
+Header address: FFEDBCC0h
+Data address: FFEDBCC4h
+Offset: 2F58h
+Full size: 28h (40)
+Header size: 4h (4)
+Body size: 24h (36)
+Type: 15h
+Text: PlatformStage1Pei

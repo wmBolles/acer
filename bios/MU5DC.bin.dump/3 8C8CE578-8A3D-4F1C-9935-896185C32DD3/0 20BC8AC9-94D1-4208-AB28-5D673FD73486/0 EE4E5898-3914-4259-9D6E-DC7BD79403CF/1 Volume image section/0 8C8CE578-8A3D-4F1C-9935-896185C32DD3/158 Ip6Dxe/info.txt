@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Ip6Dxe
+Offset: 38F060h
+Full size: 16F7Eh (94078)
+Header size: 18h (24)
+Body size: 16F66h (94054)
+File GUID: 5BEDB5CC-D830-4EB2-8742-2D4CC9B54F2C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FFh, valid
+Data checksum: AAh, valid

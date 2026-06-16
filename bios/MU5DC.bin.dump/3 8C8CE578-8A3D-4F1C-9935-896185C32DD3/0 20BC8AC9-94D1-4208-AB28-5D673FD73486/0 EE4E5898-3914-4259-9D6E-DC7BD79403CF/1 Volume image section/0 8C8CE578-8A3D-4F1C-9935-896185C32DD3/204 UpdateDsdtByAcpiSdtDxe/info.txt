@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: UpdateDsdtByAcpiSdtDxe
+Offset: 440450h
+Full size: 1C86h (7302)
+Header size: 18h (24)
+Body size: 1C6Eh (7278)
+File GUID: F5255151-DD1F-4BD9-A350-235200798740
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: D3h, valid
+Data checksum: AAh, valid

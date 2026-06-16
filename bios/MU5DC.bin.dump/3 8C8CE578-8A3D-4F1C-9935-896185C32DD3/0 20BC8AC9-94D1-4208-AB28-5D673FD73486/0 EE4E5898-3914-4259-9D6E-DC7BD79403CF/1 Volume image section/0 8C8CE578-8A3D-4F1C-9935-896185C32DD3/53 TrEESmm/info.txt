@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: TrEESmm
+Offset: E8AA0h
+Full size: 32DCh (13020)
+Header size: 18h (24)
+Body size: 32C4h (12996)
+File GUID: 7E797B21-8336-48F6-A2B5-8B4C4F2CA56F
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: A1h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: Raw
+Base: 223258h
+Header address: FF222048h
+Data address: FF222060h
+Offset: 48h
+Full size: 2172Dh (137005)
+Header size: 18h (24)
+Body size: 21715h (136981)
+File GUID: D6078613-D71A-4297-ADB6-40C98A7953C1
+Type: 01h
+Attributes: 40h
+State: 07h
+Header checksum: B6h, valid
+Data checksum: 0Bh, invalid, should be 09h

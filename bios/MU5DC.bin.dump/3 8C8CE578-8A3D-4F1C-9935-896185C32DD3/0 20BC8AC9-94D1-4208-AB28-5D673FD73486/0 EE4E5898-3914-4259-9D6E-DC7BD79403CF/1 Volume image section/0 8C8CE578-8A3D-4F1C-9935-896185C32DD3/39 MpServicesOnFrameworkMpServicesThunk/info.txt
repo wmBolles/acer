@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: MpServicesOnFrameworkMpServicesThunk
+Offset: A0A08h
+Full size: 75A2h (30114)
+Header size: 18h (24)
+Body size: 758Ah (30090)
+File GUID: 51739E2A-A022-4D73-ADB9-91F0C9BC7142
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B5h, valid
+Data checksum: AAh, valid

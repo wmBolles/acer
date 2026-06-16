@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: F8C250h
+Header address: FFF8B040h
+Data address: FFF8B044h
+Offset: 2758h
+Full size: 1Ch (28)
+Header size: 4h (4)
+Body size: 18h (24)
+Type: 15h
+Text: PegaPEIDbgr

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: DhcpDummyDxe
+Offset: 34A9F0h
+Full size: 4946h (18758)
+Header size: 18h (24)
+Body size: 492Eh (18734)
+File GUID: 9C7CCB02-9154-4864-9E4B-DC0487E37660
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: EBh, valid
+Data checksum: AAh, valid

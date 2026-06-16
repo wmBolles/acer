@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: BiosVideoDxe
+Offset: 25F470h
+Full size: 8A1Ah (35354)
+Header size: 18h (24)
+Body size: 8A02h (35330)
+File GUID: 0B04B2ED-861C-42CD-A22F-C3AAFACCB896
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: A4h, valid
+Data checksum: AAh, valid

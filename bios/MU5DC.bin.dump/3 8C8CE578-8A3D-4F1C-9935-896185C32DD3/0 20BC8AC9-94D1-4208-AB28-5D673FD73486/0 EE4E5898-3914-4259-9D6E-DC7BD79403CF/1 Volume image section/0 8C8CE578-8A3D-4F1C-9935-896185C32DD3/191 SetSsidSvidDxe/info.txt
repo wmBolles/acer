@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SetSsidSvidDxe
+Offset: 421470h
+Full size: 2ACEh (10958)
+Header size: 18h (24)
+Body size: 2AB6h (10934)
+File GUID: 96BDEA61-C364-4513-B6B3-037E9AD54CE4
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Bh, valid
+Data checksum: AAh, valid

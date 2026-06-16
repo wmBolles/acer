@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: ChipsetSvcSmm
+Offset: 414138h
+Full size: 59EAh (23018)
+Header size: 18h (24)
+Body size: 59D2h (22994)
+File GUID: D359DE86-0A1B-47BC-95D2-1D1F8FFF0AD8
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: E8h, valid
+Data checksum: AAh, valid

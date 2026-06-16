@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: IsaAcpi
+Offset: 228018h
+Full size: 20A6h (8358)
+Header size: 18h (24)
+Body size: 208Eh (8334)
+File GUID: 38A0EC22-FBE7-4911-8BC1-176E0D6C1DBD
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: EDh, valid
+Data checksum: AAh, valid

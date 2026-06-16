@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PchResetRuntime
+Offset: 4A1D28h
+Full size: 7066h (28774)
+Header size: 18h (24)
+Body size: 704Eh (28750)
+File GUID: BB1FBD4F-2E30-4793-9BED-74F672BC8FFE
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

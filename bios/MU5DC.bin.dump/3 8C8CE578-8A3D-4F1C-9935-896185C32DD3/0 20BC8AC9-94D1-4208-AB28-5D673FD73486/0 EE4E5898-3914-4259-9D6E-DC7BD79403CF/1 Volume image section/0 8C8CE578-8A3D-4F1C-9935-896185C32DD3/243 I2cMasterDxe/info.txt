@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: I2cMasterDxe
+Offset: 4D8CA8h
+Full size: 23AAh (9130)
+Header size: 18h (24)
+Body size: 2392h (9106)
+File GUID: 605CED2C-583B-4171-9311-AA6E146B1A4B
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 72h, valid
+Data checksum: AAh, valid

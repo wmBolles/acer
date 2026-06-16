@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: UnLockedBarHandle
+Offset: 473000h
+Full size: 1256h (4694)
+Header size: 18h (24)
+Body size: 123Eh (4670)
+File GUID: A7E3B20F-8B4C-492D-BC1E-DDF639B3EEB4
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: BBh, valid
+Data checksum: AAh, valid

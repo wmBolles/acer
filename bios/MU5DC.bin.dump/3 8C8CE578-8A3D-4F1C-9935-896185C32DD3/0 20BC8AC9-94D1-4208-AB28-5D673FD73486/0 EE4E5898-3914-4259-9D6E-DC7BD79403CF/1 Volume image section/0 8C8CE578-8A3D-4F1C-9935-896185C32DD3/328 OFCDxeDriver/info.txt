@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OFCDxeDriver
+Offset: 86CEF8h
+Full size: 14096h (82070)
+Header size: 18h (24)
+Body size: 1407Eh (82046)
+File GUID: 0BBC6CAB-F228-4F20-8C6A-847CDEE3FF24
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E1h, valid
+Data checksum: AAh, valid

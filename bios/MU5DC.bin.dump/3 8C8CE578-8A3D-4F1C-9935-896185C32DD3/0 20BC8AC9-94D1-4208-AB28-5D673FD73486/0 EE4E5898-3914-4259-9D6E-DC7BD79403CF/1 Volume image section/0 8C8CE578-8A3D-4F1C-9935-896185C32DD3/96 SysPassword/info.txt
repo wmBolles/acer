@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SysPassword
+Offset: 1EAD08h
+Full size: 1CE2h (7394)
+Header size: 18h (24)
+Body size: 1CCAh (7370)
+File GUID: 42FCB444-B881-49D8-A6E9-5A1695FC9F3E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FEh, valid
+Data checksum: AAh, valid

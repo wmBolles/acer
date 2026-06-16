@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SaveMemoryConfig
+Offset: 3D3C20h
+Full size: 88Eh (2190)
+Header size: 18h (24)
+Body size: 876h (2166)
+File GUID: E8F8CCFB-E880-0361-BCD1-FE248B2A307E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: DEh, valid
+Data checksum: AAh, valid

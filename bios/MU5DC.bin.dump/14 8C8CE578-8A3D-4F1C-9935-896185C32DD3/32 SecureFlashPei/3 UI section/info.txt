@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: ED9ED0h
+Header address: FFED8CC0h
+Data address: FFED8CC4h
+Offset: 4D8h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: SecureFlashPei

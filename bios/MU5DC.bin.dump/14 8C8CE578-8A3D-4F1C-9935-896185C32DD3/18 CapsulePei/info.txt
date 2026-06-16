@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: CapsulePei
+Base: ED4F78h
+Header address: FFED3D68h
+Data address: FFED3D80h
+Offset: 13D68h
+Full size: 1142h (4418)
+Header size: 18h (24)
+Body size: 112Ah (4394)
+File GUID: C779F6D8-7113-4AA1-9648-EB1633C7D53B
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

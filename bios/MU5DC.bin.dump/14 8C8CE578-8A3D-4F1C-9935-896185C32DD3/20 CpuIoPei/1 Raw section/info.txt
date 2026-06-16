@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Base: ED6128h
+Header address: FFED4F18h
+Offset: 30h
+Full size: 4h (4)
+Header size: 4h (4)
+Type: 19h

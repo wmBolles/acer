@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: CrisisRecoveryPei
+Offset: F9F0h
+Full size: 1DD9h (7641)
+Header size: 18h (24)
+Body size: 1DC1h (7617)
+File GUID: 3E963A2F-E728-4218-98D8-CB9E22215320
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: CFh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,8 @@
+Type: Startup AP data
+Subtype: X86 128K
+Base: FF1210h
+Address: FFFF0000h
+Offset: 63A98h
+Full size: 1E8h (488)
+Body size: 1E8h (488)
+

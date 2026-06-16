@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: InstallPchHdaVerbTablePei
+Base: F8C2F8h
+Header address: FFF8B0E8h
+Data address: FFF8B100h
+Offset: CB0E8h
+Full size: 147Eh (5246)
+Header size: 18h (24)
+Body size: 1466h (5222)
+File GUID: 6B110036-D89A-4FB9-85CD-E67549621C61
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

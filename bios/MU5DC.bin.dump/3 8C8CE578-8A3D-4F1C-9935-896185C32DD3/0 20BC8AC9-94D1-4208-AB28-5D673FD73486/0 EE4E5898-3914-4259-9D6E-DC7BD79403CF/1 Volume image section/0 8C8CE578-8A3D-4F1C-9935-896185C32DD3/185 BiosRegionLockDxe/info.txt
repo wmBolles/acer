@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: BiosRegionLockDxe
+Offset: 4041A8h
+Full size: 238Ah (9098)
+Header size: 18h (24)
+Body size: 2372h (9074)
+File GUID: BC05DC37-9DA0-4050-9728-F34DDB01E200
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: EEh, valid
+Data checksum: AAh, valid

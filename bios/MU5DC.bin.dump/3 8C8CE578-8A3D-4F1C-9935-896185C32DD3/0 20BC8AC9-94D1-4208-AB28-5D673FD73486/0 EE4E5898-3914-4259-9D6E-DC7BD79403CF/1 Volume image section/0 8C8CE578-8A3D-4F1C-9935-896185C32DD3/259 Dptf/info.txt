@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Dptf
+Offset: 531AE8h
+Full size: 1B66h (7014)
+Header size: 18h (24)
+Body size: 1B4Eh (6990)
+File GUID: 918ABA30-3D8D-4BB5-B849-45CC4FC7DE7C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 27h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: Ps2KeyboardPei
+Base: EDDE78h
+Header address: FFEDCC68h
+Data address: FFEDCC80h
+Offset: 1CC68h
+Full size: 84Ah (2122)
+Header size: 18h (24)
+Body size: 832h (2098)
+File GUID: 67C63A11-F89D-4500-8270-D9DB251EB2AF
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: FCh, valid
+Data checksum: AAh, valid

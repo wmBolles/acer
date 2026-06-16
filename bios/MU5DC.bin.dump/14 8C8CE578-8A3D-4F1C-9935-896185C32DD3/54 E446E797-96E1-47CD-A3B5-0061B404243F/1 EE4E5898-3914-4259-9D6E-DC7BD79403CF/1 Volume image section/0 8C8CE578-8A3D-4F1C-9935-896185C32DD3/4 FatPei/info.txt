@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: FatPei
+Offset: 4620h
+Full size: 68Ch (1676)
+Header size: 18h (24)
+Body size: 674h (1652)
+File GUID: 3D17205B-4C49-47E2-8157-864CD3D80DBD
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: BCh, valid
+Data checksum: AAh, valid

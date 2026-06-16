@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SmartTimer
+Offset: 4B24E8h
+Full size: AC2h (2754)
+Header size: 18h (24)
+Body size: AAAh (2730)
+File GUID: 90CB75DB-71FC-489D-AACF-943477EC7212
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 08h, valid
+Data checksum: AAh, valid

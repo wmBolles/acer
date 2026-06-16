@@ -1,0 +1,13 @@
+Type: Intel microcode
+Subtype: 
+Base: E34210h
+Address: FFE33000h
+Offset: E34210h
+Full size: 18400h (99328)
+Body size: 18400h (99328)
+Date: 16.11.2017
+CPU signature: 000506E3h
+Revision: 000000C2h
+Minimal update revision: 00000000h
+CPU platform Id: 00000036h
+Checksum: 328B43AFh, valid

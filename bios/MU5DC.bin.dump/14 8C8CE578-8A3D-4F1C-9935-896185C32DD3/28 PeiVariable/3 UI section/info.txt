@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: ED8190h
+Header address: FFED6F80h
+Data address: FFED6F84h
+Offset: A98h
+Full size: 1Ch (28)
+Header size: 4h (4)
+Body size: 18h (24)
+Type: 15h
+Text: PeiVariable

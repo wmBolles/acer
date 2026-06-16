@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SioInit
+Base: F1C5F8h
+Header address: FFF1B3E8h
+Data address: FFF1B400h
+Offset: 5B3E8h
+Full size: 117Ah (4474)
+Header size: 18h (24)
+Body size: 1162h (4450)
+File GUID: A43F5A9E-B29E-451B-8526-44C3E43D5067
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 4Ah, valid
+Data checksum: AAh, valid

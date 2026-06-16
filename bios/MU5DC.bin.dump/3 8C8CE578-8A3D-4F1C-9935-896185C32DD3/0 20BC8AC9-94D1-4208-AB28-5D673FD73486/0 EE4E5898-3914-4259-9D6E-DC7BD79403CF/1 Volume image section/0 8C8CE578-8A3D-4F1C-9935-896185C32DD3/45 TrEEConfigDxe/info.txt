@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TrEEConfigDxe
+Offset: C68C0h
+Full size: 1C9Ah (7322)
+Header size: 18h (24)
+Body size: 1C82h (7298)
+File GUID: 8376BDCA-5E03-4735-951A-4A74141E5886
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 69h, valid
+Data checksum: AAh, valid

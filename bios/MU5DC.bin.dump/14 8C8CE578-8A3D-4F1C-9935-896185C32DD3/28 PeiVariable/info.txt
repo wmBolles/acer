@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PeiVariable
+Base: ED76F8h
+Header address: FFED64E8h
+Data address: FFED6500h
+Offset: 164E8h
+Full size: AC2h (2754)
+Header size: 18h (24)
+Body size: AAAh (2730)
+File GUID: 34C8C28F-B61C-45A2-8F2E-89E46BECC63B
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 96h, valid
+Data checksum: AAh, valid

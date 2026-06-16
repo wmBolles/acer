@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SaPolicyPei
+Base: F10878h
+Header address: FFF0F668h
+Data address: FFF0F680h
+Offset: 4F668h
+Full size: 7222h (29218)
+Header size: 18h (24)
+Body size: 720Ah (29194)
+File GUID: A98536E6-2587-43D9-A540-E846A47FDBF0
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 43h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: A01ModifyBootInfoDxe
+Offset: 5AEDD0h
+Full size: 4F8Ah (20362)
+Header size: 18h (24)
+Body size: 4F72h (20338)
+File GUID: FEE6987C-9FF3-4971-ABC1-23697CB6ACED
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 19h, valid
+Data checksum: AAh, valid

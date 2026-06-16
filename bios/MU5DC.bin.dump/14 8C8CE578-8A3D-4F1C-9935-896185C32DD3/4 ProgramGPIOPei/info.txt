@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ProgramGPIOPei
+Base: EC21F8h
+Header address: FFEC0FE8h
+Data address: FFEC1000h
+Offset: FE8h
+Full size: 29AAh (10666)
+Header size: 18h (24)
+Body size: 2992h (10642)
+File GUID: 34E5798E-F44F-4526-A08C-39BCA6E8D7D5
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: EEh, valid
+Data checksum: AAh, valid

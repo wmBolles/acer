@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: AFF3h (45043)
+Header size: 4h (4)
+Body size: AFEFh (45039)
+Type: 19h

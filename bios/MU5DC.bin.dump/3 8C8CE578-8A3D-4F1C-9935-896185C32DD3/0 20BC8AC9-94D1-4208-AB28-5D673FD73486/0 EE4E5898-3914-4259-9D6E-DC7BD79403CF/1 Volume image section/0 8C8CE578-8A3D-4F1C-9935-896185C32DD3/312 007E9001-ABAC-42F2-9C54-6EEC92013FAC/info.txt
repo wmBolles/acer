@@ -1,0 +1,12 @@
+Type: File
+Subtype: Freeform
+Offset: 6ADD00h
+Full size: 27315h (160533)
+Header size: 18h (24)
+Body size: 272FDh (160509)
+File GUID: 007E9001-ABAC-42F2-9C54-6EEC92013FAC
+Type: 02h
+Attributes: 00h
+State: F8h
+Header checksum: 12h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: SmmBaseHelper
+Offset: 8B5A0h
+Full size: 2C8Eh (11406)
+Header size: 18h (24)
+Body size: 2C76h (11382)
+File GUID: 8C87E0A0-B390-4BE3-819C-7C6C83CAE4EB
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 17h, valid
+Data checksum: AAh, valid

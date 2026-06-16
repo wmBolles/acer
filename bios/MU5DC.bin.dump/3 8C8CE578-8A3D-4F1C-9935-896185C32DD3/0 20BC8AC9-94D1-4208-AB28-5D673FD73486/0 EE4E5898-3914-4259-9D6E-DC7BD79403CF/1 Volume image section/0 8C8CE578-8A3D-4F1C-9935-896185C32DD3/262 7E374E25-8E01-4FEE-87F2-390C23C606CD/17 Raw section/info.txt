@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 39CB4h
+Full size: 19Eh (414)
+Header size: 4h (4)
+Body size: 19Ah (410)
+Type: 19h

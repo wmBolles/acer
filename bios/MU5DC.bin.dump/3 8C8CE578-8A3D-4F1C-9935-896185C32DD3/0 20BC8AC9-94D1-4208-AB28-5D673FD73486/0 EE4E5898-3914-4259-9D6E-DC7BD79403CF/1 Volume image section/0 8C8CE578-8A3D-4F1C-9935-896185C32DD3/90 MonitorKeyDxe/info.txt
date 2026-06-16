@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: MonitorKeyDxe
+Offset: 1BFCB0h
+Full size: 1362h (4962)
+Header size: 18h (24)
+Body size: 134Ah (4938)
+File GUID: 27BEDA18-AE2B-43C2-AF6B-74952441DE28
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 41h, valid
+Data checksum: AAh, valid

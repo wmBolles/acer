@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: ED4ED0h
+Header address: FFED3CC0h
+Data address: FFED3CC4h
+Offset: CD8h
+Full size: 32h (50)
+Header size: 4h (4)
+Body size: 2Eh (46)
+Type: 15h
+Text: FirmwarePerformancePei

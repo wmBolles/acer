@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SecureFlashDxe
+Offset: 289210h
+Full size: 34D6h (13526)
+Header size: 18h (24)
+Body size: 34BEh (13502)
+File GUID: 6B1AB225-2E47-4A61-8FF5-B8EA42EE3EA8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 37h, valid
+Data checksum: AAh, valid

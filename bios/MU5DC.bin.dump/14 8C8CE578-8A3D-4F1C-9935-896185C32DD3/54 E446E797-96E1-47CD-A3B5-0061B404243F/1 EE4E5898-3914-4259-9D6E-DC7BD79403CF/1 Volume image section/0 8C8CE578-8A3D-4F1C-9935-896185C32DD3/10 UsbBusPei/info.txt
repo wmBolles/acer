@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: UsbBusPei
+Offset: C710h
+Full size: AFFh (2815)
+Header size: 18h (24)
+Body size: AE7h (2791)
+File GUID: 8401A045-6F70-4505-8471-7015B40355E3
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

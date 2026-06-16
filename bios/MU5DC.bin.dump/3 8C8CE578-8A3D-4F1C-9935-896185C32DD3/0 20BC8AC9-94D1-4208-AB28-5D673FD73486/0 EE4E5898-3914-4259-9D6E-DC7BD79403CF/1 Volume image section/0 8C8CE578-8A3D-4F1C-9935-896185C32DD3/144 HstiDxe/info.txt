@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: HstiDxe
+Offset: 346B10h
+Full size: 1796h (6038)
+Header size: 18h (24)
+Body size: 177Eh (6014)
+File GUID: 3D2F8940-A850-4543-B294-9B0BD0E750C7
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: DDh, valid
+Data checksum: AAh, valid

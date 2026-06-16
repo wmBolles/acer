@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: A01D2DRecoveryDriver
+Offset: 5DD690h
+Full size: 14C2h (5314)
+Header size: 18h (24)
+Body size: 14AAh (5290)
+File GUID: CC243581-112F-441C-815D-6D8DB3659619
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 3Eh, valid
+Data checksum: AAh, valid

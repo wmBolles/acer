@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: VariableEditDxe
+Offset: 3EE6B8h
+Full size: 1246h (4678)
+Header size: 18h (24)
+Body size: 122Eh (4654)
+File GUID: 3F837872-2A07-4470-B8B7-9AC131360314
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C8h, valid
+Data checksum: AAh, valid

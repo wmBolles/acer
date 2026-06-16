@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: 299Eh (10654)
+Header size: 4h (4)
+Body size: 299Ah (10650)
+Type: 19h

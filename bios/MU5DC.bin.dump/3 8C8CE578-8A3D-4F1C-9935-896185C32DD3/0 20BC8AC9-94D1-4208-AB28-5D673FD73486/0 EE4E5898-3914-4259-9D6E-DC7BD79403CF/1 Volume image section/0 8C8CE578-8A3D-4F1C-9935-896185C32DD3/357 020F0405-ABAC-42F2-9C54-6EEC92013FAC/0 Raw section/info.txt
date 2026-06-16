@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: 34CCh (13516)
+Header size: 4h (4)
+Body size: 34C8h (13512)
+Type: 19h

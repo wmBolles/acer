@@ -1,0 +1,10 @@
+Type: FDC store
+Subtype: 
+Base: D65210h
+Header address: FFD64000h
+Data address: FFD64050h
+Offset: 34000h
+Full size: 4000h (16384)
+Header size: 50h (80)
+Body size: 3FB0h (16304)
+

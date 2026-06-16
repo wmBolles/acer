@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: Int15ServiceSmm
+Offset: 25DEA8h
+Full size: 15C6h (5574)
+Header size: 18h (24)
+Body size: 15AEh (5550)
+File GUID: 7D4E94A9-269A-47A1-80F0-2B0EB42F7B4B
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 17h, valid
+Data checksum: AAh, valid

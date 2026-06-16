@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: S3RestoreAcpiPei
+Base: EDE6F8h
+Header address: FFEDD4E8h
+Data address: FFEDD500h
+Offset: 1D4E8h
+Full size: 48Eh (1166)
+Header size: 18h (24)
+Body size: 476h (1142)
+File GUID: 4DE01DE6-7CBB-4786-9F2A-9B9C7C97AC06
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 5Fh, valid
+Data checksum: AAh, valid

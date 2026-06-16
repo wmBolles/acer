@@ -1,0 +1,10 @@
+Type: Section
+Subtype: Raw
+Base: EC7C90h
+Header address: FFEC6A80h
+Data address: FFEC6A84h
+Offset: 18h
+Full size: 1Ch (28)
+Header size: 4h (4)
+Body size: 18h (24)
+Type: 19h

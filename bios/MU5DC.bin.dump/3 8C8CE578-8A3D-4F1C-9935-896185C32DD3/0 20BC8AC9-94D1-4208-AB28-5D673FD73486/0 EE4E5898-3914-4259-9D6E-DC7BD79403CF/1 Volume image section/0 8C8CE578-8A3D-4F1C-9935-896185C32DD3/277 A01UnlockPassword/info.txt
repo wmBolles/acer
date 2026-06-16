@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: A01UnlockPassword
+Offset: 5AB878h
+Full size: 3556h (13654)
+Header size: 18h (24)
+Body size: 353Eh (13630)
+File GUID: 99FAB6EA-648B-6EAC-3EEA-5A16EEA64C3E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 7Ch, valid
+Data checksum: AAh, valid

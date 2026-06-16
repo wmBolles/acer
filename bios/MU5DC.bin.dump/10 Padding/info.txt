@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Empty (FFh)
+Base: E21610h
+Address: FFE20400h
+Offset: E21610h
+Full size: 400h (1024)
+Body size: 400h (1024)
+

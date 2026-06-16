@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: A01SmmServiceBody
+Offset: 597198h
+Full size: 1F1Ah (7962)
+Header size: 18h (24)
+Body size: 1F02h (7938)
+File GUID: 03C1F5C8-48F1-416E-A6B6-992DF3BBACA6
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 32h, valid
+Data checksum: AAh, valid

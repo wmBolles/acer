@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: XhciSmiDispatcher
+Offset: 3D0278h
+Full size: 311Eh (12574)
+Header size: 18h (24)
+Body size: 3106h (12550)
+File GUID: 5FC364AD-4D63-4B80-B10C-0C8780ADA917
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: BCh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: InstallMsdm
+Offset: 143968h
+Full size: 1ECAh (7882)
+Header size: 18h (24)
+Body size: 1EB2h (7858)
+File GUID: 6903A447-CB4F-45F6-89A2-7E7E2F9EE14C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 44h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,12 @@
+Type: File
+Subtype: Raw
+Offset: 96E6C8h
+Full size: 1018h (4120)
+Header size: 18h (24)
+Body size: 1000h (4096)
+File GUID: 134B46B0-F5AF-4263-9792-C5E88A4EFA02
+Type: 01h
+Attributes: 00h
+State: F8h
+Header checksum: 90h, valid
+Data checksum: AAh, valid

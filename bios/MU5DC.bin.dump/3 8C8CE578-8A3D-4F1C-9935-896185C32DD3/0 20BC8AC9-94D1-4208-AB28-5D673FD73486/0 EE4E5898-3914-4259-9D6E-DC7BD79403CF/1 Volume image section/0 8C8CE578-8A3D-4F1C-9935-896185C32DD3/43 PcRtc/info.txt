@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PcRtc
+Offset: BC5C8h
+Full size: 9076h (36982)
+Header size: 18h (24)
+Body size: 905Eh (36958)
+File GUID: 378D7B65-8DA9-4773-B6E4-A47826A833E1
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C7h, valid
+Data checksum: AAh, valid

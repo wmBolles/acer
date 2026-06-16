@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PchSpiRuntime
+Offset: 494C60h
+Full size: 7062h (28770)
+Header size: 18h (24)
+Body size: 704Ah (28746)
+File GUID: C194C6EA-B68C-4981-B64B-9BD271474B20
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 85h, valid
+Data checksum: AAh, valid

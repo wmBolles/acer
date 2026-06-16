@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: MePolicyPei
+Base: F17AF8h
+Header address: FFF168E8h
+Data address: FFF16900h
+Offset: 568E8h
+Full size: 4E2h (1250)
+Header size: 18h (24)
+Body size: 4CAh (1226)
+File GUID: 86D73C3A-CA69-472D-9D6B-33621AD9036C
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 8Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: ED7150h
+Header address: FFED5F40h
+Data address: FFED5F44h
+Offset: 358h
+Full size: 2Eh (46)
+Header size: 4h (4)
+Body size: 2Ah (42)
+Type: 15h
+Text: PciCfgOnPciCfg2Thunk

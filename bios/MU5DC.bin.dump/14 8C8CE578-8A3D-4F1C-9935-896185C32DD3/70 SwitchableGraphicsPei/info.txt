@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SwitchableGraphicsPei
+Base: F17FF8h
+Header address: FFF16DE8h
+Data address: FFF16E00h
+Offset: 56DE8h
+Full size: 16D6h (5846)
+Header size: 18h (24)
+Body size: 16BEh (5822)
+File GUID: E3E8BA35-541F-4EF1-BFB8-75F02A26CC75
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 25h, valid
+Data checksum: AAh, valid

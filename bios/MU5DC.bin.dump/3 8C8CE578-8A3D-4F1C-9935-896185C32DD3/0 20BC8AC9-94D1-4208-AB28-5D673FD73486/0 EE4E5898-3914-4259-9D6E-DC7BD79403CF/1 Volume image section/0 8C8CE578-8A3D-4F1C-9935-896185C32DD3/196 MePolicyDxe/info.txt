@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: MePolicyDxe
+Offset: 429530h
+Full size: 28BEh (10430)
+Header size: 18h (24)
+Body size: 28A6h (10406)
+File GUID: 004C40AB-B952-4123-8CF5-1FE893ABC010
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: D7h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: BdsDxe
+Offset: 891128h
+Full size: 7FC76h (523382)
+Header size: 18h (24)
+Body size: 7FC5Eh (523358)
+File GUID: FC5C7020-1A48-4198-9BE2-EAD5ABC8CF2F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B0h, valid
+Data checksum: AAh, valid

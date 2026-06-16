@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PlatformStage1Pei
+Base: ED9F78h
+Header address: FFED8D68h
+Data address: FFED8D80h
+Offset: 18D68h
+Full size: 2F8Eh (12174)
+Header size: 18h (24)
+Body size: 2F76h (12150)
+File GUID: A85027FC-0E09-4FA9-A407-CAD206FB4F1D
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 4Fh, valid
+Data checksum: AAh, valid

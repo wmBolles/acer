@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CommonPciPlatformDxe
+Offset: 2440F8h
+Full size: 3C7Ah (15482)
+Header size: 18h (24)
+Body size: 3C62h (15458)
+File GUID: B7358BEB-6A52-4D50-98F9-7EDD70B4B320
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: A5h, valid
+Data checksum: AAh, valid

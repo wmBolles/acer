@@ -1,0 +1,19 @@
+Type: Volume
+Subtype: NVRAM
+Base: D31210h
+Header address: FFD30000h
+Data address: FFD30048h
+Offset: D31210h
+Full size: 38000h (229376)
+Header size: 48h (72)
+Body size: 37FB8h (229304)
+ZeroVector:
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+FileSystem GUID: FFF12B8D-7696-4C8B-A985-2747075B4F50
+Revision: 2
+Attributes: FFFF8EFFh
+Erase polarity: 1
+Checksum: E905h, valid
+NumBlocks: 38h (56), valid
+Length: 1000h (4096), valid

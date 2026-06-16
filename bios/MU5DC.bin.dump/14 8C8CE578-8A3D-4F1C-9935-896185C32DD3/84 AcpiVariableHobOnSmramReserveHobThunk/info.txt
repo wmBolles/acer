@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: AcpiVariableHobOnSmramReserveHobThunk
+Base: F227F8h
+Header address: FFF215E8h
+Data address: FFF21600h
+Offset: 615E8h
+Full size: 656h (1622)
+Header size: 18h (24)
+Body size: 63Eh (1598)
+File GUID: 49B7F3E1-6C08-4A5B-911C-E9E397ED4178
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: EBh, valid
+Data checksum: AAh, valid

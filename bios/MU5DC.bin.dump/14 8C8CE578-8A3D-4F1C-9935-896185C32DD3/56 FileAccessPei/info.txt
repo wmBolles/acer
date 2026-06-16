@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: FileAccessPei
+Base: EFB978h
+Header address: FFEFA768h
+Data address: FFEFA780h
+Offset: 3A768h
+Full size: 3886h (14470)
+Header size: 18h (24)
+Body size: 386Eh (14446)
+File GUID: C2E5D736-0771-42AC-B99F-1B7F1CA5610A
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: F4h, valid
+Data checksum: AAh, valid

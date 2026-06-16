@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SiInitDxe
+Offset: 4EFBE0h
+Full size: 5E0Ah (24074)
+Header size: 18h (24)
+Body size: 5DF2h (24050)
+File GUID: ACD28235-075B-48B5-98A1-DA04FCAF84F3
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C4h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TrueTypeDecoderDxe
+Offset: 216C60h
+Full size: F57Eh (62846)
+Header size: 18h (24)
+Body size: F566h (62822)
+File GUID: 531AED6E-3DEE-45EB-8DF1-B70ADB1F885D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 45h, valid
+Data checksum: AAh, valid

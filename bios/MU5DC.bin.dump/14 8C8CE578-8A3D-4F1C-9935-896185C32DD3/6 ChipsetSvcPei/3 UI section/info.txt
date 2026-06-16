@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: EC7C10h
+Header address: FFEC6A00h
+Data address: FFEC6A04h
+Offset: 3018h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: ChipsetSvcPei

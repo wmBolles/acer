@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: WpbtDxe
+Offset: 142D48h
+Full size: C1Eh (3102)
+Header size: 18h (24)
+Body size: C06h (3078)
+File GUID: ED92EAE0-C31C-4824-8802-35595EFA8287
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C2h, valid
+Data checksum: AAh, valid

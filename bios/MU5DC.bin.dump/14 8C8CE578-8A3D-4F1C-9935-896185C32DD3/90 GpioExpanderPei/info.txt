@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: GpioExpanderPei
+Base: F27D78h
+Header address: FFF26B68h
+Data address: FFF26B80h
+Offset: 66B68h
+Full size: E6Ah (3690)
+Header size: 18h (24)
+Body size: E52h (3666)
+File GUID: BC46CC5F-13F2-44CF-A598-CCA3444D4E2B
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 77h, valid
+Data checksum: AAh, valid

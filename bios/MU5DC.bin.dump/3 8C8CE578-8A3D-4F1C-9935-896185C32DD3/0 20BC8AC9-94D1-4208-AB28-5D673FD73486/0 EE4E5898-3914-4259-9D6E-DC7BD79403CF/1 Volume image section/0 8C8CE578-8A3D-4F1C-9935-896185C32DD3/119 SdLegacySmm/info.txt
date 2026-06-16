@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: SdLegacySmm
+Offset: 280BD8h
+Full size: 1FA6h (8102)
+Header size: 18h (24)
+Body size: 1F8Eh (8078)
+File GUID: 61A72ECF-F7BF-444E-BE85-221339D0F00B
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 68h, valid
+Data checksum: AAh, valid

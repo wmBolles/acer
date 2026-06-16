@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SiInitPreMem
+Base: F28C78h
+Header address: FFF27A68h
+Data address: FFF27A80h
+Offset: 67A68h
+Full size: 4A9C6h (305606)
+Header size: 18h (24)
+Body size: 4A9AEh (305582)
+File GUID: A8499E65-A6F6-48B0-96DB-45C266030D83
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 7Eh, valid
+Data checksum: AAh, valid

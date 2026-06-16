@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Ip4Dxe
+Offset: 361420h
+Full size: F37Eh (62334)
+Header size: 18h (24)
+Body size: F366h (62310)
+File GUID: 9FB1A1F3-3B71-4324-B39A-745CBB015FFF
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Ah, valid
+Data checksum: AAh, valid

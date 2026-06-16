@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: EDE690h
+Header address: FFEDD480h
+Data address: FFEDD484h
+Offset: 818h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: Ps2KeyboardPei

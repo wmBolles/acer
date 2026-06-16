@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ChipsetSvcPei
+Base: EC4BF8h
+Header address: FFEC39E8h
+Data address: FFEC3A00h
+Offset: 39E8h
+Full size: 3046h (12358)
+Header size: 18h (24)
+Body size: 302Eh (12334)
+File GUID: FB3D20EE-CB5D-45EE-BBAE-C5AAA9C0FDFA
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 9Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: VariableRegionInfoDxe
+Offset: 2B2C30h
+Full size: 892h (2194)
+Header size: 18h (24)
+Body size: 87Ah (2170)
+File GUID: 78D19E50-2B62-407F-9F49-C652A4124002
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E4h, valid
+Data checksum: AAh, valid

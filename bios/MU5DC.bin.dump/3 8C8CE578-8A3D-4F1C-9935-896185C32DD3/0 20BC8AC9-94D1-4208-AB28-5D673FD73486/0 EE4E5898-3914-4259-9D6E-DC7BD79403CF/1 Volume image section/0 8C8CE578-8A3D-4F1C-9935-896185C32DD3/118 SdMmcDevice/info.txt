@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: SdMmcDevice
+Offset: 277250h
+Full size: 9986h (39302)
+Header size: 18h (24)
+Body size: 996Eh (39278)
+File GUID: 86EDAAE5-073C-4C89-B949-8984AC8A55F3
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 2Eh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SecureFlashPei
+Base: ED99F8h
+Header address: FFED87E8h
+Data address: FFED8800h
+Offset: 187E8h
+Full size: 50Ah (1290)
+Header size: 18h (24)
+Body size: 4F2h (1266)
+File GUID: EAA006CD-3256-789B-BD20-EBABCD02583F
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 0Ah, valid
+Data checksum: AAh, valid

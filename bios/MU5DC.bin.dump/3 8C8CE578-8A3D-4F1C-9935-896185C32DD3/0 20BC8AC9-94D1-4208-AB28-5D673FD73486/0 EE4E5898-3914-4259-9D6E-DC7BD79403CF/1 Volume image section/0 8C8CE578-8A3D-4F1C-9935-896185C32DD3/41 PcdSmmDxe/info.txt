@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: PcdSmmDxe
+Offset: A8498h
+Full size: 1296Ah (76138)
+Header size: 18h (24)
+Body size: 12952h (76114)
+File GUID: 80CF7257-87AB-47F9-A3FE-D50B76D89541
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

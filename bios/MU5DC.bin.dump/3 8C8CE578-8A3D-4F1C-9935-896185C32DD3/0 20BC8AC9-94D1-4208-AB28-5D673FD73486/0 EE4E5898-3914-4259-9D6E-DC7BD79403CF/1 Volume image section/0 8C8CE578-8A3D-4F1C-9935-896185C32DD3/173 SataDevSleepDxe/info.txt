@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SataDevSleepDxe
+Offset: 3ECAB0h
+Full size: F7Ah (3962)
+Header size: 18h (24)
+Body size: F62h (3938)
+File GUID: F73938F6-B851-494F-A003-331B49408605
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 6Ch, valid
+Data checksum: AAh, valid

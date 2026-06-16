@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: ComputraceSmm
+Offset: 5B6B28h
+Full size: 1E8Ah (7818)
+Header size: 18h (24)
+Body size: 1E72h (7794)
+File GUID: 6B26DE1E-3DF2-4A1D-9B7F-B816B8C90872
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 48h, valid
+Data checksum: AAh, valid

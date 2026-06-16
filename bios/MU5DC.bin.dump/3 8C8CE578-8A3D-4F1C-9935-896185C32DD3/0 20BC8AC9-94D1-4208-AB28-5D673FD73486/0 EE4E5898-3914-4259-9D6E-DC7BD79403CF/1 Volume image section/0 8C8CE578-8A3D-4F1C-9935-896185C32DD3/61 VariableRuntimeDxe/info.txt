@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: VariableRuntimeDxe
+Offset: 1037D0h
+Full size: 1716Eh (94574)
+Header size: 18h (24)
+Body size: 17156h (94550)
+File GUID: CBD2E4D5-7068-4FF5-B462-9822B4AD8D60
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 84h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: ED3710h
+Header address: FFED2500h
+Data address: FFED2504h
+Offset: 698h
+Full size: 38h (56)
+Header size: 4h (4)
+Body size: 34h (52)
+Type: 15h
+Text: ReportStatusCodeRouterPei

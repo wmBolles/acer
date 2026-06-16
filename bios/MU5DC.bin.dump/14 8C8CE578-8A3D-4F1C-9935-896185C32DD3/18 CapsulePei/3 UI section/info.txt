@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: ED6090h
+Header address: FFED4E80h
+Data address: FFED4E84h
+Offset: 1118h
+Full size: 1Ah (26)
+Header size: 4h (4)
+Body size: 16h (22)
+Type: 15h
+Text: CapsulePei

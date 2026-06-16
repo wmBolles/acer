@@ -1,0 +1,8 @@
+Type: Section
+Subtype: UI
+Offset: 664h
+Full size: 46h (70)
+Header size: 4h (4)
+Body size: 42h (66)
+Type: 15h
+Text: LegacyRegion2OnLegacyRegionThunk

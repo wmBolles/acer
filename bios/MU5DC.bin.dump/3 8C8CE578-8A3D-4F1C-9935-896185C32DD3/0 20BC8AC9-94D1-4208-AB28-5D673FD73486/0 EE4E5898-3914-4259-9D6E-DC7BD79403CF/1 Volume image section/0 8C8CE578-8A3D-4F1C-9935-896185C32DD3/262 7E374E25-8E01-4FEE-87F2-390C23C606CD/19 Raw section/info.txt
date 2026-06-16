@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 3A50Ch
+Full size: B4Dh (2893)
+Header size: 4h (4)
+Body size: B49h (2889)
+Type: 19h

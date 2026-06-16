@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: InitSerialPortPei
+Base: EFF278h
+Header address: FFEFE068h
+Data address: FFEFE080h
+Offset: 3E068h
+Full size: D0Eh (3342)
+Header size: 18h (24)
+Body size: CF6h (3318)
+File GUID: 2E67047C-7647-40F8-886C-5C333C73272F
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 3Dh, valid
+Data checksum: AAh, valid

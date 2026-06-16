@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PciCfgOnPciCfg2Thunk
+Base: ED6DF8h
+Header address: FFED5BE8h
+Data address: FFED5C00h
+Offset: 15BE8h
+Full size: 396h (918)
+Header size: 18h (24)
+Body size: 37Eh (894)
+File GUID: 717886AB-C40A-44CF-9114-4119E84B0DC7
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 50h, valid
+Data checksum: AAh, valid

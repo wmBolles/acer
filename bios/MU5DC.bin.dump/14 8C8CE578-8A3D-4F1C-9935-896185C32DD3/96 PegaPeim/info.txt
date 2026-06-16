@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PegaPeim
+Base: F88578h
+Header address: FFF87368h
+Data address: FFF87380h
+Offset: C7368h
+Full size: 153Eh (5438)
+Header size: 18h (24)
+Body size: 1526h (5414)
+File GUID: 4941D466-4042-4C49-2B8B-8C83834C1379
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 9Ch, valid
+Data checksum: AAh, valid

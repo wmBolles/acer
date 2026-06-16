@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: PchAhciPei
+Offset: E048h
+Full size: 82Bh (2091)
+Header size: 18h (24)
+Body size: 813h (2067)
+File GUID: CE248B77-1179-4BC6-B324-9D2EDC4B976E
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 6Ah, valid
+Data checksum: AAh, valid

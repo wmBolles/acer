@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: DebugMaskPei
+Base: ED71F8h
+Header address: FFED5FE8h
+Data address: FFED6000h
+Offset: 15FE8h
+Full size: 486h (1158)
+Header size: 18h (24)
+Body size: 46Eh (1134)
+File GUID: EB00DB50-C654-460F-8D7A-0E444FD32B45
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: F0h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,10 @@
+Type: Section
+Subtype: DXE dependency
+Offset: 18h
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Type: 13h
+Parsed expression:
+PUSH EC2E931B-3281-48A5-8107-DF8A8BED3C5D
+END

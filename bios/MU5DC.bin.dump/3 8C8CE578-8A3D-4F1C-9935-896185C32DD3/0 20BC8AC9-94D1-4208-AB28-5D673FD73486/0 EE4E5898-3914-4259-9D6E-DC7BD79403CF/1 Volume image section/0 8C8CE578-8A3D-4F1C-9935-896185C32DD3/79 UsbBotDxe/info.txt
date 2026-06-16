@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: UsbBotDxe
+Offset: 1930A0h
+Full size: 15D2h (5586)
+Header size: 18h (24)
+Body size: 15BAh (5562)
+File GUID: B40612B9-A063-11D4-9A3A-0090273FC14D
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: C8h, valid
+Data checksum: AAh, valid

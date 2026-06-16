@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PnpRuntimeDxe
+Offset: 1C1018h
+Full size: 90BAh (37050)
+Header size: 18h (24)
+Body size: 90A2h (37026)
+File GUID: A368D636-4C77-4B50-AAE8-F99E2DA40440
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FCh, valid
+Data checksum: AAh, valid

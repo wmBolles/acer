@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: A01ODMSmmServiceDriver
+Offset: 59F5F8h
+Full size: 3FFAh (16378)
+Header size: 18h (24)
+Body size: 3FE2h (16354)
+File GUID: AA924214-DFCB-4BEE-AA33-FAE9729AF000
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 8Ch, valid
+Data checksum: AAh, valid

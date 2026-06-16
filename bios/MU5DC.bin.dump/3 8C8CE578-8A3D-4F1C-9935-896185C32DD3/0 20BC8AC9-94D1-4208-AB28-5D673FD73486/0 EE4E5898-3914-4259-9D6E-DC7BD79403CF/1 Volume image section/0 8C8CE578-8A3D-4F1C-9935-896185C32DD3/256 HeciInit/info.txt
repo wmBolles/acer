@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: HeciInit
+Offset: 51FD88h
+Full size: 662Eh (26158)
+Header size: 18h (24)
+Body size: 6616h (26134)
+File GUID: 55E76644-78A5-4A82-A900-7126A5798892
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 1Eh, valid
+Data checksum: AAh, valid

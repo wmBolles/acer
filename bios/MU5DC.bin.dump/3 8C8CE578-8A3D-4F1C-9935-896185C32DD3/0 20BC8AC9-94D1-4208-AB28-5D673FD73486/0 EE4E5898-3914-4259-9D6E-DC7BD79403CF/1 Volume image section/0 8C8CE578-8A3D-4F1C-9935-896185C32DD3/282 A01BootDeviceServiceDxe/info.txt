@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: A01BootDeviceServiceDxe
+Offset: 5C7018h
+Full size: 4E82h (20098)
+Header size: 18h (24)
+Body size: 4E6Ah (20074)
+File GUID: 683732B5-2A38-43A8-9CE2-02CD7250DCD9
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 92h, valid
+Data checksum: AAh, valid

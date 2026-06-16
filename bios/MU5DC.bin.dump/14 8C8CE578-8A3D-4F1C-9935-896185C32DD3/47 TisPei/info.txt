@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: TisPei
+Base: EE15F8h
+Header address: FFEE03E8h
+Data address: FFEE0400h
+Offset: 203E8h
+Full size: E1Ah (3610)
+Header size: 18h (24)
+Body size: E02h (3586)
+File GUID: 7A2A4270-38BA-45C6-B53C-C83B342D5B15
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: AAh, valid
+Data checksum: AAh, valid

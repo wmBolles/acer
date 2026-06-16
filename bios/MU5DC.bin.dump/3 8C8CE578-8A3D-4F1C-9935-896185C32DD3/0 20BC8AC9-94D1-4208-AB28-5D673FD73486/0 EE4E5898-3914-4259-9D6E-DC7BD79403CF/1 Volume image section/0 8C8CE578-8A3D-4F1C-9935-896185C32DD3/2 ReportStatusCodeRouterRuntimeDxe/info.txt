@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: ReportStatusCodeRouterRuntimeDxe
+Offset: 162E8h
+Full size: 608Ah (24714)
+Header size: 18h (24)
+Body size: 6072h (24690)
+File GUID: D93CE3D8-A7EB-4730-8C8E-CC466A9ECC3C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FAh, valid
+Data checksum: AAh, valid

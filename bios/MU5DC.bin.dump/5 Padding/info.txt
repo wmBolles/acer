@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Non-empty
+Base: D69210h
+Address: FFD68000h
+Offset: D69210h
+Full size: 78000h (491520)
+Body size: 78000h (491520)
+

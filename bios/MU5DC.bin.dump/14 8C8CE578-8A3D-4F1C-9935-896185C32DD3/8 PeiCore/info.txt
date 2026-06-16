@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI core
+Text: PeiCore
+Base: EC7C78h
+Header address: FFEC6A68h
+Data address: FFEC6A80h
+Offset: 6A68h
+Full size: 4F3Ah (20282)
+Header size: 18h (24)
+Body size: 4F22h (20258)
+File GUID: 52C05B14-0B98-496C-BC3B-04B50211D680
+Type: 04h
+Attributes: 10h
+State: F8h
+Header checksum: 71h, valid
+Data checksum: AAh, valid

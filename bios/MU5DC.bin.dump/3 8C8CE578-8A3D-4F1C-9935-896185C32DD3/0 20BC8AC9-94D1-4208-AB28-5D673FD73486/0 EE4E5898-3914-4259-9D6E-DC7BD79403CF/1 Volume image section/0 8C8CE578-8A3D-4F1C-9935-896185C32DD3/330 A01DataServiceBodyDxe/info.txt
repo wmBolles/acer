@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: A01DataServiceBodyDxe
+Offset: 882B68h
+Full size: 84C2h (33986)
+Header size: 18h (24)
+Body size: 84AAh (33962)
+File GUID: E2A5ECED-DE4C-432D-9AA0-061C33A308C8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B7h, valid
+Data checksum: AAh, valid

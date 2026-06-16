@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: StorageSecurityCommandDxe
+Offset: 1EC9F0h
+Full size: 3A32h (14898)
+Header size: 18h (24)
+Body size: 3A1Ah (14874)
+File GUID: 70D57D67-7F05-494D-A014-B75D7345B700
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 0Eh, valid
+Data checksum: AAh, valid

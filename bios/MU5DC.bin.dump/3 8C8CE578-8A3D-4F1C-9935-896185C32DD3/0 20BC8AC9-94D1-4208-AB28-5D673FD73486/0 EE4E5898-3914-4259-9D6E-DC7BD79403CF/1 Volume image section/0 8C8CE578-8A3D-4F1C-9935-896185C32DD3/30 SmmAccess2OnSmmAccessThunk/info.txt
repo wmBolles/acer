@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SmmAccess2OnSmmAccessThunk
+Offset: 7ED28h
+Full size: 72Eh (1838)
+Header size: 18h (24)
+Body size: 716h (1814)
+File GUID: 98BBCDA4-18B4-46D3-BD1F-6A3A52D44CF8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

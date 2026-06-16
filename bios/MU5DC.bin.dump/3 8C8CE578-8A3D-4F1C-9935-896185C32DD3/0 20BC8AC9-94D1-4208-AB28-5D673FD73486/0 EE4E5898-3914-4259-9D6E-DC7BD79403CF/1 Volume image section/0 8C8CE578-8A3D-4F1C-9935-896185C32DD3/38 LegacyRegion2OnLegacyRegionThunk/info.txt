@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LegacyRegion2OnLegacyRegionThunk
+Offset: A0348h
+Full size: 6BAh (1722)
+Header size: 18h (24)
+Body size: 6A2h (1698)
+File GUID: 5167FD5D-AAA2-4FE1-9D0D-5CFCAB36C14C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: BBh, valid
+Data checksum: AAh, valid

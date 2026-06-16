@@ -1,0 +1,20 @@
+Type: Section
+Subtype: PE32 image
+Base: F89B2Ch
+Header address: FFF8891Ch
+Data address: FFF88920h
+Offset: 34h
+Full size: 2724h (10020)
+Header size: 4h (4)
+Body size: 2720h (10016)
+Type: 10h
+DOS signature: 5A4Dh
+PE signature: 00004550h
+Machine type: x86
+Number of sections: 3
+Characteristics: 2102h
+Optional header signature: 010Bh
+Subsystem: 000Bh
+Address of entry point: 240h
+Base of code: 240h
+Image base: FFF88920h

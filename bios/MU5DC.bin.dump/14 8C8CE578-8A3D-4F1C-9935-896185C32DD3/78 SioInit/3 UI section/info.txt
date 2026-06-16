@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: F1D750h
+Header address: FFF1C540h
+Data address: FFF1C544h
+Offset: 1158h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 15h
+Text: SioInit

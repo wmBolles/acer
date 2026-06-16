@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TraceHubStatusCodeHandlerRuntimeDxe
+Offset: 4651B8h
+Full size: 909Eh (37022)
+Header size: 18h (24)
+Body size: 9086h (36998)
+File GUID: DE5FC8BF-06ED-4DC5-BA9D-29F711699A85
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F2h, valid
+Data checksum: AAh, valid

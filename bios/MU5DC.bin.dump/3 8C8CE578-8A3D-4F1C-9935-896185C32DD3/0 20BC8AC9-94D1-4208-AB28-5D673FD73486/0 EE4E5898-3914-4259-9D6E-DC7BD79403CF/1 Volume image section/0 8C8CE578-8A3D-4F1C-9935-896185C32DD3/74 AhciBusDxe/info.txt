@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: AhciBusDxe
+Offset: 167570h
+Full size: E0DEh (57566)
+Header size: 18h (24)
+Body size: E0C6h (57542)
+File GUID: 3ACC966D-8E33-45C6-B4FE-62724BCD15A9
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 05h, valid
+Data checksum: AAh, valid

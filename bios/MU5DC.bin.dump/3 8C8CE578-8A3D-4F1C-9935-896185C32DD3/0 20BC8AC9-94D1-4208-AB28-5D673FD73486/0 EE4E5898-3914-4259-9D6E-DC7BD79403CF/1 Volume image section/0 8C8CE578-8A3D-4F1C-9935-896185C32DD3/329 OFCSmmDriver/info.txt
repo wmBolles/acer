@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: OFCSmmDriver
+Offset: 880F90h
+Full size: 1BD6h (7126)
+Header size: 18h (24)
+Body size: 1BBEh (7102)
+File GUID: DBFAB6C3-6C4B-4E4F-A8FE-AD1C27D5E8BA
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 56h, valid
+Data checksum: AAh, valid

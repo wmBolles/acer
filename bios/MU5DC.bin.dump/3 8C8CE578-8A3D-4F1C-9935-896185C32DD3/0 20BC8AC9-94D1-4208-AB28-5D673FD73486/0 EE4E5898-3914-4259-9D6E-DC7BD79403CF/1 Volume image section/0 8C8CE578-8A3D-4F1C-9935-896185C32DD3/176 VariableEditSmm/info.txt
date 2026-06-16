@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: VariableEditSmm
+Offset: 3EF900h
+Full size: 5A3Eh (23102)
+Header size: 18h (24)
+Body size: 5A26h (23078)
+File GUID: 84945A3D-49C8-4059-8F34-6A4532D32A47
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 1Dh, valid
+Data checksum: AAh, valid

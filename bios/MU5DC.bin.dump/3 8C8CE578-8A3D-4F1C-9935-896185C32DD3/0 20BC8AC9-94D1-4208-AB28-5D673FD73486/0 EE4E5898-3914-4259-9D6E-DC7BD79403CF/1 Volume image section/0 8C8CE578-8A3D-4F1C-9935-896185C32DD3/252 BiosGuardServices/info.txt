@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: BiosGuardServices
+Offset: 5003C0h
+Full size: 1645Eh (91230)
+Header size: 18h (24)
+Body size: 16446h (91206)
+File GUID: 6D4BAA0B-F431-4370-AF19-99D6209239F6
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: D6h, valid
+Data checksum: AAh, valid

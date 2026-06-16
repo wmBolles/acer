@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GpioExpanderDxe
+Offset: 4030E0h
+Full size: 10C6h (4294)
+Header size: 18h (24)
+Body size: 10AEh (4270)
+File GUID: 4DE9A180-FA40-4899-AB66-4E6325B0315D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 8Ch, valid
+Data checksum: AAh, valid

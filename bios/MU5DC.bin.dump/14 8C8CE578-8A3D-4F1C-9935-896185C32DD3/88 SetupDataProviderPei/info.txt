@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SetupDataProviderPei
+Base: F23AF8h
+Header address: FFF228E8h
+Data address: FFF22900h
+Offset: 628E8h
+Full size: 41F6h (16886)
+Header size: 18h (24)
+Body size: 41DEh (16862)
+File GUID: B937BAC9-B41B-4914-BC32-72410400F9DE
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 98h, valid
+Data checksum: AAh, valid

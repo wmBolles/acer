@@ -1,0 +1,13 @@
+Type: Intel microcode
+Subtype: 
+Base: E21A10h
+Address: FFE20800h
+Offset: E21A10h
+Full size: 12800h (75776)
+Body size: 12800h (75776)
+Date: 18.03.2015
+CPU signature: 000506E1h
+Revision: 0000001Eh
+Minimal update revision: 00000000h
+CPU platform Id: 00000022h
+Checksum: 60C877E5h, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: PttHciSmm
+Offset: 583A30h
+Full size: 2246h (8774)
+Header size: 18h (24)
+Body size: 222Eh (8750)
+File GUID: 8029A5B5-4088-48D2-96E0-F7052BC0A842
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

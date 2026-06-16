@@ -1,0 +1,13 @@
+Type: File
+Subtype: Application
+Text: SetupUtilityApp
+Offset: 2B6440h
+Full size: 1A2Eh (6702)
+Header size: 18h (24)
+Body size: 1A16h (6678)
+File GUID: 3935B0A1-A182-4887-BC56-675528E78877
+Type: 09h
+Attributes: 00h
+State: F8h
+Header checksum: 22h, valid
+Data checksum: AAh, valid

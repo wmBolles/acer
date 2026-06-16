@@ -1,0 +1,13 @@
+Type: Intel microcode
+Subtype: 
+Base: E0DA10h
+Address: FFE0C800h
+Offset: E0DA10h
+Full size: 13C00h (80896)
+Body size: 13C00h (80896)
+Date: 24.09.2014
+CPU signature: 000506E0h
+Revision: 00000012h
+Minimal update revision: 00000000h
+CPU platform Id: 00000022h
+Checksum: C1410CFDh, valid

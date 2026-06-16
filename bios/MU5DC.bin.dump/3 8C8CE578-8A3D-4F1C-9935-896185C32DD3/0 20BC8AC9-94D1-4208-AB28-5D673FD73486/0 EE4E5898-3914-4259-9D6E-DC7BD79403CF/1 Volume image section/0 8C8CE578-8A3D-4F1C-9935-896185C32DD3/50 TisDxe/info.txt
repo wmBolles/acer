@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: TisDxe
+Offset: D7888h
+Full size: 20DEh (8414)
+Header size: 18h (24)
+Body size: 20C6h (8390)
+File GUID: 2892389C-FBE9-43D7-B9FC-6C5D90D18456
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: B1h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: IntegratedTouch
+Offset: 5263B8h
+Full size: 2C2Ah (11306)
+Header size: 18h (24)
+Body size: 2C12h (11282)
+File GUID: CBF486B7-D196-4C03-AFE2-33F38E64DA16
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

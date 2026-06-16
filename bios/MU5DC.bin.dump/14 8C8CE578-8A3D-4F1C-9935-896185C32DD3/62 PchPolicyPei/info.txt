@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PchPolicyPei
+Base: F006F8h
+Header address: FFEFF4E8h
+Data address: FFEFF500h
+Offset: 3F4E8h
+Full size: C1A6h (49574)
+Header size: 18h (24)
+Body size: C18Eh (49550)
+File GUID: 4C596AD1-C108-4B07-8587-6E1D6B730184
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 8Eh, valid
+Data checksum: AAh, valid

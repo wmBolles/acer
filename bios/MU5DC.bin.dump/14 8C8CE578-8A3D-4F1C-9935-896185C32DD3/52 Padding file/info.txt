@@ -1,0 +1,15 @@
+Type: File
+Subtype: Pad
+Base: EE6B20h
+Header address: FFEE5910h
+Data address: FFEE5928h
+Offset: 25910h
+Full size: 58h (88)
+Header size: 18h (24)
+Body size: 40h (64)
+File GUID: FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF
+Type: F0h
+Attributes: 00h
+State: F8h
+Header checksum: C8h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: BbstableHook
+Offset: 400488h
+Full size: 6E6h (1766)
+Header size: 18h (24)
+Body size: 6CEh (1742)
+File GUID: CC043281-112F-441C-805D-6D8DB3659618
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 4Dh, valid
+Data checksum: AAh, valid

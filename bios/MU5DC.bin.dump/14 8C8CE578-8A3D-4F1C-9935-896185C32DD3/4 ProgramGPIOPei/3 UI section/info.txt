@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: EC4B70h
+Header address: FFEC3960h
+Data address: FFEC3964h
+Offset: 2978h
+Full size: 22h (34)
+Header size: 4h (4)
+Body size: 1Eh (30)
+Type: 15h
+Text: ProgramGPIOPei

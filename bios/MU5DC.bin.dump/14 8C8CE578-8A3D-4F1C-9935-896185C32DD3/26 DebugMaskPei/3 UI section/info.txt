@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: ED7650h
+Header address: FFED6440h
+Data address: FFED6444h
+Offset: 458h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: DebugMaskPei

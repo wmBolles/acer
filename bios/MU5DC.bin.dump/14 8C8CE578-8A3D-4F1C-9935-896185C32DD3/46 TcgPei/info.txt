@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: TcgPei
+Base: EDF978h
+Header address: FFEDE768h
+Data address: FFEDE780h
+Offset: 1E768h
+Full size: 1C7Ah (7290)
+Header size: 18h (24)
+Body size: 1C62h (7266)
+File GUID: 2BE1E4A6-6505-43B3-9FFC-A3C8330E0432
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: E1h, valid
+Data checksum: AAh, valid

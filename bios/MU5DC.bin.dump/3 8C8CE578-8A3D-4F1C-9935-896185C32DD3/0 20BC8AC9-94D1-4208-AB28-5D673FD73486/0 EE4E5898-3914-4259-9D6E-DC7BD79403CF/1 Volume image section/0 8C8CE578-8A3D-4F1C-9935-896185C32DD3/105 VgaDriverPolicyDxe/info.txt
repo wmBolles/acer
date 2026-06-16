@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: VgaDriverPolicyDxe
+Offset: 23A328h
+Full size: 1976h (6518)
+Header size: 18h (24)
+Body size: 195Eh (6494)
+File GUID: B5F33FB5-66D5-4901-BAF1-F0C774FC6588
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 8Ah, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: EE23F0h
+Header address: FFEE11E0h
+Data address: FFEE11E4h
+Offset: DF8h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Type: 15h
+Text: TisPei

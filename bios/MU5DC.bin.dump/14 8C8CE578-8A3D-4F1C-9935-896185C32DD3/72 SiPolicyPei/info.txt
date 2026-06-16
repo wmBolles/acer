@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SiPolicyPei
+Base: F196F8h
+Header address: FFF184E8h
+Data address: FFF18500h
+Offset: 584E8h
+Full size: 3E2h (994)
+Header size: 18h (24)
+Body size: 3CAh (970)
+File GUID: EEEE611D-F78F-4FB9-B868-55907F169280
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 71h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PegaDXEDbgr
+Offset: 9557C0h
+Full size: A05Eh (41054)
+Header size: 18h (24)
+Body size: A046h (41030)
+File GUID: AC157B6D-E16D-481B-B811-F84AB50B868C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C4h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: FirmwarePerformancePei
+Base: ED41F8h
+Header address: FFED2FE8h
+Data address: FFED3000h
+Offset: 12FE8h
+Full size: D1Ah (3354)
+Header size: 18h (24)
+Body size: D02h (3330)
+File GUID: ADF01BF6-47D6-495D-B95B-687777807214
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: E2h, valid
+Data checksum: AAh, valid

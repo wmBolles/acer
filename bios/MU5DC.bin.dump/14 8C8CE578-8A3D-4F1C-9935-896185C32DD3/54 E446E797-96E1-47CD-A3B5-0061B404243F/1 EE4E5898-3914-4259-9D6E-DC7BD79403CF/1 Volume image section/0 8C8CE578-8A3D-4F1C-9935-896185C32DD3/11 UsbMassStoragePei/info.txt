@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: UsbMassStoragePei
+Offset: D210h
+Full size: AE1h (2785)
+Header size: 18h (24)
+Body size: AC9h (2761)
+File GUID: BA25E07A-E253-442C-90FF-B4C92FAD6990
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 50h, valid
+Data checksum: AAh, valid

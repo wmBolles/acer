@@ -1,0 +1,8 @@
+Type: Free space
+Subtype: 
+Base: F8D790h
+Address: FFF8C580h
+Offset: 18h
+Full size: 63A80h (408192)
+Body size: 63A80h (408192)
+

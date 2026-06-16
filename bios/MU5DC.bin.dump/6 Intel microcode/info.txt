@@ -1,0 +1,13 @@
+Type: Intel microcode
+Subtype: 
+Base: DE1210h
+Address: FFDE0000h
+Offset: DE1210h
+Full size: 15000h (86016)
+Body size: 15000h (86016)
+Date: 01.04.2015
+CPU signature: 000406E2h
+Revision: 00000026h
+Minimal update revision: 00000000h
+CPU platform Id: 000000C0h
+Checksum: C7121176h, valid

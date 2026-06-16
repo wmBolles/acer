@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: JhiDxe
+Offset: 528FE8h
+Full size: 8AFAh (35578)
+Header size: 18h (24)
+Body size: 8AE2h (35554)
+File GUID: 6FD18837-36E6-46EC-8F61-6730E3E23D50
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 4Fh, valid
+Data checksum: AAh, valid

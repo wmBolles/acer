@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CapsuleLoaderTriggerDxe
+Offset: 47B1E8h
+Full size: 13A02h (80386)
+Header size: 18h (24)
+Body size: 139EAh (80362)
+File GUID: C62CEB80-FB40-4A46-A5E5-C1D997C36DFC
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: ADh, valid
+Data checksum: AAh, valid

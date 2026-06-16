@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LxUndiDxe-X64
+Offset: 9D2F90h
+Full size: A1A2h (41378)
+Header size: 18h (24)
+Body size: A18Ah (41354)
+File GUID: 7FECA3CE-F18C-4DCE-9465-4DEB949298C9
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 8Ah, valid
+Data checksum: AAh, valid

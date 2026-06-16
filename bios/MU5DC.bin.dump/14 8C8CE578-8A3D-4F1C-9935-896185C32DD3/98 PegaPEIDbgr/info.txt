@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: PegaPEIDbgr
+Base: F89AF8h
+Header address: FFF888E8h
+Data address: FFF88900h
+Offset: C88E8h
+Full size: 2782h (10114)
+Header size: 18h (24)
+Body size: 276Ah (10090)
+File GUID: 1BA0062E-C779-4582-8566-336AE8F78F11
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 44h, valid
+Data checksum: AAh, valid

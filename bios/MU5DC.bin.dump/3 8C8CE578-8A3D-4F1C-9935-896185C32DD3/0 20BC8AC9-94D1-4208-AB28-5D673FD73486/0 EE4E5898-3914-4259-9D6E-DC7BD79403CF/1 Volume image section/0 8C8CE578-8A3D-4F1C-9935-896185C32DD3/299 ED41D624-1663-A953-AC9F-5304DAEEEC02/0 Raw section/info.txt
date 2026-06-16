@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: 3D0Ah (15626)
+Header size: 4h (4)
+Body size: 3D06h (15622)
+Type: 19h

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TgaDecoderDxe
+Offset: EE968h
+Full size: D62h (3426)
+Header size: 18h (24)
+Body size: D4Ah (3402)
+File GUID: ADCCA887-5330-414A-81A1-5B578146A397
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FFh, valid
+Data checksum: AAh, valid

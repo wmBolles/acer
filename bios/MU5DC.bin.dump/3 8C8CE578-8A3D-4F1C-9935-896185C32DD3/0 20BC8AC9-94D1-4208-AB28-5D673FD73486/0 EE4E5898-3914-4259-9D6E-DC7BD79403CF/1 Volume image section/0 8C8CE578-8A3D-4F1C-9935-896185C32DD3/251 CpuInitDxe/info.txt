@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CpuInitDxe
+Offset: 4F59F0h
+Full size: A9CEh (43470)
+Header size: 18h (24)
+Body size: A9B6h (43446)
+File GUID: 62D171CB-78CD-4480-8678-C6A2A797A8DE
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E0h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: SdMmcDevice
+Offset: 3700h
+Full size: F1Eh (3870)
+Header size: 18h (24)
+Body size: F06h (3846)
+File GUID: F1577E74-CAAB-41C8-9E26-F11EEBB6C83D
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 9Ch, valid
+Data checksum: AAh, valid

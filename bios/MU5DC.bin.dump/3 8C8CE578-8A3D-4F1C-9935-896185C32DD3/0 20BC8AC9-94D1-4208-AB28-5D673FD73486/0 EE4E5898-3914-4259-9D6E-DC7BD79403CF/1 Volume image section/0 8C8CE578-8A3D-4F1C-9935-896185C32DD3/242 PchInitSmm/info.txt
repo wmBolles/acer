@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: PchInitSmm
+Offset: 4D0BF0h
+Full size: 80B2h (32946)
+Header size: 18h (24)
+Body size: 809Ah (32922)
+File GUID: D7B10D4E-67E6-4C74-83E9-F9AF0ACC33CC
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: EBh, valid
+Data checksum: AAh, valid

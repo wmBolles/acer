@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Empty (FFh)
+Base: D4B210h
+Address: FFD4A000h
+Offset: 1A000h
+Full size: 1A000h (106496)
+Body size: 1A000h (106496)
+

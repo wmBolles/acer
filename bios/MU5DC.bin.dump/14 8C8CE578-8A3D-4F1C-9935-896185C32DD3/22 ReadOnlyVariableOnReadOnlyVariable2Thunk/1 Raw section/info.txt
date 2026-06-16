@@ -1,0 +1,10 @@
+Type: Section
+Subtype: Raw
+Base: ED6A38h
+Header address: FFED5828h
+Data address: FFED582Ch
+Offset: 40h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 19h

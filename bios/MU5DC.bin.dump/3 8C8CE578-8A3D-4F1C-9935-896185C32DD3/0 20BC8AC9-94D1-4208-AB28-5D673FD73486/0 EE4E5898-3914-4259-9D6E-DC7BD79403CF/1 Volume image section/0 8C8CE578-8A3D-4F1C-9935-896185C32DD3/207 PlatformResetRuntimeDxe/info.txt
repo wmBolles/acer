@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformResetRuntimeDxe
+Offset: 444CB0h
+Full size: 609Ah (24730)
+Header size: 18h (24)
+Body size: 6082h (24706)
+File GUID: 0790DC86-F827-4590-A0E2-6B9F9F038DDB
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 7Ch, valid
+Data checksum: AAh, valid

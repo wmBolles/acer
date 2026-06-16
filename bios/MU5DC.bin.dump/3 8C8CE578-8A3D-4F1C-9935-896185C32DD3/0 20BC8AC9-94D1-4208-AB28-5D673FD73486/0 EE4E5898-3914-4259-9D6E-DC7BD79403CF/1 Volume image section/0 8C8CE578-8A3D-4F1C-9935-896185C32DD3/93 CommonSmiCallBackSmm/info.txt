@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: CommonSmiCallBackSmm
+Offset: 1D0040h
+Full size: 295Eh (10590)
+Header size: 18h (24)
+Body size: 2946h (10566)
+File GUID: 6069277B-246B-45D5-BD6D-81820E10C11F
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 30h, valid
+Data checksum: AAh, valid

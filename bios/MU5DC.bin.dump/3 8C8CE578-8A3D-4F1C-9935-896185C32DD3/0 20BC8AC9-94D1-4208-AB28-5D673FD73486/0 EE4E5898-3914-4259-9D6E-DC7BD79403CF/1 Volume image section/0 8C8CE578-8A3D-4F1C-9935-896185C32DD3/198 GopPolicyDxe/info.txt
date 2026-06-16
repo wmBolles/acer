@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GopPolicyDxe
+Offset: 42DD98h
+Full size: 2146h (8518)
+Header size: 18h (24)
+Body size: 212Eh (8494)
+File GUID: A52509C7-5ECD-42D1-85A2-46C37135D12D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E6h, valid
+Data checksum: AAh, valid

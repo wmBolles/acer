@@ -1,0 +1,13 @@
+Type: VSS store
+Subtype: 
+Base: D65260h
+Header address: FFD64050h
+Data address: FFD64060h
+Offset: 50h
+Full size: 3FB0h (16304)
+Header size: 10h (16)
+Body size: 3FA0h (16288)
+Format: 5Ah
+State: FEh
+Reserved: 00h
+Reserved1: 0000h

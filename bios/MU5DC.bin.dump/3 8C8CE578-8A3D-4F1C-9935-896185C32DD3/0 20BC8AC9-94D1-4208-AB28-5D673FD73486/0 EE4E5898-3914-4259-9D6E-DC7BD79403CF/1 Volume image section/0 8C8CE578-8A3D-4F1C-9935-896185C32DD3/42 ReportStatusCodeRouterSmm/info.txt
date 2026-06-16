@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: ReportStatusCodeRouterSmm
+Offset: BAE08h
+Full size: 17BEh (6078)
+Header size: 18h (24)
+Body size: 17A6h (6054)
+File GUID: A6885402-D022-4B0E-A509-4711B90F2A39
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 21h, valid
+Data checksum: AAh, valid

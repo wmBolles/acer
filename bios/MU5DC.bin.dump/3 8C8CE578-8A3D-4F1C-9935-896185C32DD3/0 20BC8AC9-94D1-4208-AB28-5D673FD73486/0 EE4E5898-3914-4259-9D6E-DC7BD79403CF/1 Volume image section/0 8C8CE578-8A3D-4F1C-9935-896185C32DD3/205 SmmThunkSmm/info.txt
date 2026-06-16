@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: SmmThunkSmm
+Offset: 4420D8h
+Full size: 2192h (8594)
+Header size: 18h (24)
+Body size: 217Ah (8570)
+File GUID: 8D3BE215-D6F6-4264-BEA6-28073FB13AEA
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 6Bh, valid
+Data checksum: AAh, valid

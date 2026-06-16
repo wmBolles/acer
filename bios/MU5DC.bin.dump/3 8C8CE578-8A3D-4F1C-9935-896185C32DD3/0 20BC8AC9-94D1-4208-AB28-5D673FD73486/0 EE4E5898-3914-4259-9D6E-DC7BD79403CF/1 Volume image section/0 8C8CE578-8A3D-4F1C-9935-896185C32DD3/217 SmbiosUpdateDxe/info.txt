@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosUpdateDxe
+Offset: 464188h
+Full size: 102Eh (4142)
+Header size: 18h (24)
+Body size: 1016h (4118)
+File GUID: 453253B9-A204-46E4-B873-CA2249DA4888
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 5Eh, valid
+Data checksum: AAh, valid

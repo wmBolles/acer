@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: VbiosHookSmm
+Offset: AD4D20h
+Full size: 1F2Ah (7978)
+Header size: 18h (24)
+Body size: 1F12h (7954)
+File GUID: 87E4A8F8-B74A-40B5-B019-E10A5DE11236
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 72h, valid
+Data checksum: AAh, valid

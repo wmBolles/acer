@@ -1,0 +1,13 @@
+Type: File
+Subtype: Application
+Text: ComputraceComponents
+Offset: 5B89B8h
+Full size: E65Ah (58970)
+Header size: 18h (24)
+Body size: E642h (58946)
+File GUID: 89EFE6DE-9CF2-4B7F-8F0B-AEBBA5A25B26
+Type: 09h
+Attributes: 00h
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

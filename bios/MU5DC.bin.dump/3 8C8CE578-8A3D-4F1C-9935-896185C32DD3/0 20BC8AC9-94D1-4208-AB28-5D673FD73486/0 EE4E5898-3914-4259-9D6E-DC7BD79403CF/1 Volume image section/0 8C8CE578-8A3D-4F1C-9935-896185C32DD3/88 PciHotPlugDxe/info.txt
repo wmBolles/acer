@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PciHotPlugDxe
+Offset: 1BBB68h
+Full size: 262Ah (9770)
+Header size: 18h (24)
+Body size: 2612h (9746)
+File GUID: 1967DD9B-B72C-4328-8C80-D4ACFC83FDF8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 63h, valid
+Data checksum: AAh, valid

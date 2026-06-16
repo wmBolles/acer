@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: PegaDBGRSMI
+Offset: 95F820h
+Full size: E5Eh (3678)
+Header size: 18h (24)
+Body size: E46h (3654)
+File GUID: 9C346A5E-AAF8-4622-9505-39328D2AB432
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 44h, valid
+Data checksum: AAh, valid

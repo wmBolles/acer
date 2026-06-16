@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: IhisiRegister
+Offset: 88CF58h
+Full size: 41CAh (16842)
+Header size: 18h (24)
+Body size: 41B2h (16818)
+File GUID: 77C2687E-975A-679C-BE44-2EF67868CEAC
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 58h, valid
+Data checksum: AAh, valid

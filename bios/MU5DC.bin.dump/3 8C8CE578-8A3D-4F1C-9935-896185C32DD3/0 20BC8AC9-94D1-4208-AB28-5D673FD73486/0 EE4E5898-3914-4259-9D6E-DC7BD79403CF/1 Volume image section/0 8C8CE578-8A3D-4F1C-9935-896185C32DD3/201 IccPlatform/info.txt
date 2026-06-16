@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: IccPlatform
+Offset: 43C9A8h
+Full size: E26h (3622)
+Header size: 18h (24)
+Body size: E0Eh (3598)
+File GUID: 14257B56-BDA2-4FAF-8E4F-C885DF75583C
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 4Ch, valid
+Data checksum: AAh, valid

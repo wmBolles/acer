@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: 6C43h (27715)
+Header size: 4h (4)
+Body size: 6C3Fh (27711)
+Type: 19h

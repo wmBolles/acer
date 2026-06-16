@@ -1,0 +1,17 @@
+Type: VSS entry
+Subtype: Auth
+Text: db
+Base: D66088h
+Header address: FFD64E78h
+Data address: FFD64EBAh
+Offset: E28h
+Full size: 138Ch (5004)
+Header size: 42h (66)
+Body size: 134Ah (4938)
+Variable GUID: D719B2CB-3D3A-4596-A3BC-DAD00E67656F
+State: 3Fh
+Reserved: 00h
+Attributes: 00000027h (NonVolatile, BootService, Runtime, TimeBasedAuthWrite)
+Monotonic counter: 0h
+Timestamp: 0000-00-00T00:00:00.0
+PubKey index: 0

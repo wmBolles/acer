@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 2B4h
+Full size: 40h (64)
+Header size: 4h (4)
+Body size: 3Ch (60)
+Type: 19h

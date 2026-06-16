@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SectionExtractionDxe
+Offset: 6ABD8h
+Full size: 1602h (5634)
+Header size: 18h (24)
+Body size: 15EAh (5610)
+File GUID: 801ADCA0-815E-46A4-84F7-657F53621A57
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 7Dh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: FirmwareAuthenticationPei
+Offset: 5590h
+Full size: 4211h (16913)
+Header size: 18h (24)
+Body size: 41F9h (16889)
+File GUID: F04D6DBD-1200-4C74-9EC9-B306C9EB0F38
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 53h, valid
+Data checksum: AAh, valid

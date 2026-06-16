@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: 16A3Eh (92734)
+Header size: 4h (4)
+Body size: 16A3Ah (92730)
+Type: 19h

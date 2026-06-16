@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: FvbServicesRuntimeDxe
+Offset: 1A35B8h
+Full size: B0D2h (45266)
+Header size: 18h (24)
+Body size: B0BAh (45242)
+File GUID: BDFE5FAA-2A35-44BB-B17A-8084D4E2B9E9
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: C9h, valid
+Data checksum: AAh, valid

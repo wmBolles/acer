@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: HddPassword
+Offset: 93C498h
+Full size: B3AEh (45998)
+Header size: 18h (24)
+Body size: B396h (45974)
+File GUID: E8571188-00C1-4ED4-B14E-E38451351EC4
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 0Ah, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: SwitchableGraphicsSmm
+Offset: 45B268h
+Full size: B0Ah (2826)
+Header size: 18h (24)
+Body size: AF2h (2802)
+File GUID: D684FB08-8B0E-4CAF-8CFF-1EA386279809
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 54h, valid
+Data checksum: AAh, valid

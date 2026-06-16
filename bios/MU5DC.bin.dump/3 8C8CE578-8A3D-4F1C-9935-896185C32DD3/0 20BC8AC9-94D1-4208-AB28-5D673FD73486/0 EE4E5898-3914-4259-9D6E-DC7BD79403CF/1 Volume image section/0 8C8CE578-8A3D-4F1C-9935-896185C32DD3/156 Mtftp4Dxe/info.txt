@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: Mtftp4Dxe
+Offset: 384AD8h
+Full size: 71E2h (29154)
+Header size: 18h (24)
+Body size: 71CAh (29130)
+File GUID: 0BB51CDD-A750-442F-A15E-7DEADFBA30FF
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 55h, valid
+Data checksum: AAh, valid

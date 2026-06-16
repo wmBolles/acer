@@ -1,0 +1,8 @@
+Type: Free space
+Subtype: 
+Base: 6B70F8h
+Address: FF6B5EE8h
+Offset: 445EE8h
+Full size: 67A118h (6791448)
+Body size: 67A118h (6791448)
+

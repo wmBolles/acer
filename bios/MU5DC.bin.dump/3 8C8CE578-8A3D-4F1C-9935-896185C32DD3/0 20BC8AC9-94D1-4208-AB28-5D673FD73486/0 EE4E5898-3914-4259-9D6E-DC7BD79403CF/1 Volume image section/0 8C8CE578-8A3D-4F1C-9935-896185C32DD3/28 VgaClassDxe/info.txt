@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: VgaClassDxe
+Offset: 76428h
+Full size: 1CC6h (7366)
+Header size: 18h (24)
+Body size: 1CAEh (7342)
+File GUID: BF89F10D-B205-474F-96E3-7A7BB1B4A407
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 06h, valid
+Data checksum: AAh, valid

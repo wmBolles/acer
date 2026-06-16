@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: FirmwareRevisionSyncPei
+Base: ED81F8h
+Header address: FFED6FE8h
+Data address: FFED7000h
+Offset: 16FE8h
+Full size: 17BAh (6074)
+Header size: 18h (24)
+Body size: 17A2h (6050)
+File GUID: C2239ACD-21D0-4CB0-B7DB-6D35EE7B0CC1
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 76h, valid
+Data checksum: AAh, valid

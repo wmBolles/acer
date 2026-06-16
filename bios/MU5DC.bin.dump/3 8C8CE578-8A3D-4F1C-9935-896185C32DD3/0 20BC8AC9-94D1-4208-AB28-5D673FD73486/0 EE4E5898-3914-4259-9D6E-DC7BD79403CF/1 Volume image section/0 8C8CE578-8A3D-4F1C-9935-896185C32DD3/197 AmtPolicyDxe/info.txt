@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AmtPolicyDxe
+Offset: 42BDF0h
+Full size: 1FA2h (8098)
+Header size: 18h (24)
+Body size: 1F8Ah (8074)
+File GUID: 7D52B8AA-751C-4F13-AD99-2B62D21FF39B
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C2h, valid
+Data checksum: AAh, valid

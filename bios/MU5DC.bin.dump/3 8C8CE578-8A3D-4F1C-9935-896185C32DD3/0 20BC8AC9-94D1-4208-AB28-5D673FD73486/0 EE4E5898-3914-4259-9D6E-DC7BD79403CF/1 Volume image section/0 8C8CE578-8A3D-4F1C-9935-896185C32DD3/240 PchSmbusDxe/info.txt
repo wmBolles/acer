@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PchSmbusDxe
+Offset: 4C3ED8h
+Full size: 21BEh (8638)
+Header size: 18h (24)
+Body size: 21A6h (8614)
+File GUID: E052D8A6-224A-4C32-8D37-2E0AE162364D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: BEh, valid
+Data checksum: AAh, valid

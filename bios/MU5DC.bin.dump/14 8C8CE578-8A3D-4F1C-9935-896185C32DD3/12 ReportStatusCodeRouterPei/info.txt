@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ReportStatusCodeRouterPei
+Base: ED3078h
+Header address: FFED1E68h
+Data address: FFED1E80h
+Offset: 11E68h
+Full size: 6DEh (1758)
+Header size: 18h (24)
+Body size: 6C6h (1734)
+File GUID: A3610442-E69F-4DF3-82CA-2360C4031A23
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 24h, valid
+Data checksum: AAh, valid

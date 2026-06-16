@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: SgxSetupPei
+Base: EFFFF8h
+Header address: FFEFEDE8h
+Data address: FFEFEE00h
+Offset: 3EDE8h
+Full size: 6A2h (1698)
+Header size: 18h (24)
+Body size: 68Ah (1674)
+File GUID: 9326B7B7-3CAB-424C-AEDA-87EA2BDCE314
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: AFh, valid
+Data checksum: AAh, valid

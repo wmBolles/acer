@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SavePegConfigDxe
+Offset: 44AD50h
+Full size: 90Eh (2318)
+Header size: 18h (24)
+Body size: 8F6h (2294)
+File GUID: C8F9202B-8983-4470-940A-E65E7A552270
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: D3h, valid
+Data checksum: AAh, valid

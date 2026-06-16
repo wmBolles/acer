@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: UefiPxeBcDxe
+Offset: 3BC8B0h
+Full size: 11E8Ah (73354)
+Header size: 18h (24)
+Body size: 11E72h (73330)
+File GUID: AE724F8D-62C6-4638-A065-0138F47B6D23
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 71h, valid
+Data checksum: AAh, valid

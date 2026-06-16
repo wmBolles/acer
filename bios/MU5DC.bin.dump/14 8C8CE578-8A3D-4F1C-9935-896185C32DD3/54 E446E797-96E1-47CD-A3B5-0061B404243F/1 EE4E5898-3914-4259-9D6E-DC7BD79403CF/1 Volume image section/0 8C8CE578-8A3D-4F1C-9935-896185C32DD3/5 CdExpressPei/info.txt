@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: CdExpressPei
+Offset: 4CB0h
+Full size: 8DFh (2271)
+Header size: 18h (24)
+Body size: 8C7h (2247)
+File GUID: 31E147A6-D39A-4147-9DA3-BEFD4D523243
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: 10h, valid
+Data checksum: AAh, valid

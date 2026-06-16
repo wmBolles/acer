@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: BootScriptSaveOnS3SaveStateThunk
+Offset: 8E230h
+Full size: 25FAh (9722)
+Header size: 18h (24)
+Body size: 25E2h (9698)
+File GUID: 062ACC82-1D1E-4F61-AA94-8B0C47236A3D
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 8Bh, valid
+Data checksum: AAh, valid

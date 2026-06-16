@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: AcpiCallbacksSmm
+Offset: 1BE198h
+Full size: 1B12h (6930)
+Header size: 18h (24)
+Body size: 1AFAh (6906)
+File GUID: 4FB2CE1F-1A3A-42E3-BD0C-7B84F954189A
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 9Bh, valid
+Data checksum: AAh, valid

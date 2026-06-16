@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: F8D730h
+Header address: FFF8C520h
+Data address: FFF8C524h
+Offset: 1438h
+Full size: 38h (56)
+Header size: 4h (4)
+Body size: 34h (52)
+Type: 15h
+Text: InstallPchHdaVerbTablePei

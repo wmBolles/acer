@@ -1,0 +1,7 @@
+Type: Section
+Subtype: Raw
+Offset: 18h
+Full size: EA630h (960048)
+Header size: 4h (4)
+Body size: EA62Ch (960044)
+Type: 19h

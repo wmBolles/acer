@@ -1,0 +1,10 @@
+Type: Section
+Subtype: Raw
+Base: ECCC10h
+Header address: FFECBA00h
+Data address: FFECBA04h
+Offset: 18h
+Full size: 4F12h (20242)
+Header size: 4h (4)
+Body size: 4F0Eh (20238)
+Type: 19h

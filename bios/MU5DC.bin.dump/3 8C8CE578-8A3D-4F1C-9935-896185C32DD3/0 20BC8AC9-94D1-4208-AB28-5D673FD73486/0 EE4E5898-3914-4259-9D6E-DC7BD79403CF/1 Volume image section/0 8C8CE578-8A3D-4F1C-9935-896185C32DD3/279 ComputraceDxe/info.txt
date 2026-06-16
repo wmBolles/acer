@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: ComputraceDxe
+Offset: 5B3D60h
+Full size: 2DC2h (11714)
+Header size: 18h (24)
+Body size: 2DAAh (11690)
+File GUID: 011A7546-DB4E-4119-A216-9A3167B6AF56
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 0Ch, valid
+Data checksum: AAh, valid

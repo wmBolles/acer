@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: F0C870h
+Header address: FFF0B660h
+Data address: FFF0B664h
+Offset: C178h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: PchPolicyPei

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: IntelGopDriver
+Offset: 960680h
+Full size: E046h (57414)
+Header size: 18h (24)
+Body size: E02Eh (57390)
+File GUID: 7755CA7B-CA8F-43C5-889B-E1F59A93D575
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F1h, valid
+Data checksum: AAh, valid

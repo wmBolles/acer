@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: EDF3D0h
+Header address: FFEDE1C0h
+Data address: FFEDE1C4h
+Offset: 7D8h
+Full size: 20h (32)
+Header size: 4h (4)
+Body size: 1Ch (28)
+Type: 15h
+Text: TrEEConfigPei

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: MultiConfigUpdateDxe
+Offset: 33AD20h
+Full size: DD2h (3538)
+Header size: 18h (24)
+Body size: DBAh (3514)
+File GUID: D2B6C80A-FAFE-4512-835D-50D136540AAA
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 32h, valid
+Data checksum: AAh, valid

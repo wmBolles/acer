@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: GenericMemoryTestDxe
+Offset: 2411E0h
+Full size: 2F12h (12050)
+Header size: 18h (24)
+Body size: 2EFAh (12026)
+File GUID: EEC9BC9A-2907-4D59-8B86-D1EC67DE62E1
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 7Fh, valid
+Data checksum: AAh, valid

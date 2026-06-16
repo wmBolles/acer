@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: RaidDriver
+Offset: 97F700h
+Full size: 35E6Eh (220782)
+Header size: 18h (24)
+Body size: 35E56h (220758)
+File GUID: 382F560D-17A9-4887-BD9C-EB439C1CC482
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 4Ch, valid
+Data checksum: AAh, valid

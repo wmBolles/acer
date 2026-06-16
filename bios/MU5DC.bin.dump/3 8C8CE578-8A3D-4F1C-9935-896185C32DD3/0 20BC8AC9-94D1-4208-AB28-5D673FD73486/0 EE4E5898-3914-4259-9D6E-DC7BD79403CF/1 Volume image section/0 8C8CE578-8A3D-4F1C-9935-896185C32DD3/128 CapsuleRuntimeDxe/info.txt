@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CapsuleRuntimeDxe
+Offset: 2A2BB0h
+Full size: 1007Ah (65658)
+Header size: 18h (24)
+Body size: 10062h (65634)
+File GUID: 42857F0A-13F2-4B21-8A23-53D3F714B840
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E7h, valid
+Data checksum: AAh, valid

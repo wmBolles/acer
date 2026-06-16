@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: F89A90h
+Header address: FFF88880h
+Data address: FFF88884h
+Offset: 1518h
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Type: 15h
+Text: PegaPeim

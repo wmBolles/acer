@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: A01SensitiveVariables
+Offset: 5A35F8h
+Full size: 197Ah (6522)
+Header size: 18h (24)
+Body size: 1962h (6498)
+File GUID: 2EACAEFF-6452-4FEA-9B32-9B12CC56514F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: B4h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PchSerialGpio
+Offset: 4AD268h
+Full size: 2EC2h (11970)
+Header size: 18h (24)
+Body size: 2EAAh (11946)
+File GUID: FC1B7640-3466-4C06-B1CC-1C935394B5C2
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C6h, valid
+Data checksum: AAh, valid

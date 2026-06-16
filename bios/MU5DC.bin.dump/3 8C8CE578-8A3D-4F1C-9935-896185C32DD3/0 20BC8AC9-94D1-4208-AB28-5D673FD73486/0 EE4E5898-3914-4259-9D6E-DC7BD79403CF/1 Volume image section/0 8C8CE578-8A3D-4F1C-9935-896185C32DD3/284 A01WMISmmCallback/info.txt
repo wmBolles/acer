@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: A01WMISmmCallback
+Offset: 5CC750h
+Full size: DC6Ah (56426)
+Header size: 18h (24)
+Body size: DC52h (56402)
+File GUID: FAD93433-76B9-4482-4567-3BEACEA9B35D
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 29h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: BiosProtectDxe
+Offset: 282B80h
+Full size: A8Ah (2698)
+Header size: 18h (24)
+Body size: A72h (2674)
+File GUID: C7D4F4E3-DAEA-40B0-8846-F4CAF3135CE8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 69h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ReadOnlyVariableOnReadOnlyVariable2Thunk
+Base: ED69F8h
+Header address: FFED57E8h
+Data address: FFED5800h
+Offset: 157E8h
+Full size: 3DEh (990)
+Header size: 18h (24)
+Body size: 3C6h (966)
+File GUID: 0FDB764B-E669-4C69-83AC-5EDD99A2711E
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 26h, valid
+Data checksum: AAh, valid

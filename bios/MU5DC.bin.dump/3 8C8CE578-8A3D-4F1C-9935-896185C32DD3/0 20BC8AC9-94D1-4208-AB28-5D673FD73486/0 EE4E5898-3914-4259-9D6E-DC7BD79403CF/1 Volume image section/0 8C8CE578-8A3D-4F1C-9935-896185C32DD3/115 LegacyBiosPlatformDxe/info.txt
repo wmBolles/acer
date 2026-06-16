@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LegacyBiosPlatformDxe
+Offset: 267E90h
+Full size: 6B9Eh (27550)
+Header size: 18h (24)
+Body size: 6B86h (27526)
+File GUID: F84CFFF4-511E-41C8-B829-519F5152F444
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 95h, valid
+Data checksum: AAh, valid

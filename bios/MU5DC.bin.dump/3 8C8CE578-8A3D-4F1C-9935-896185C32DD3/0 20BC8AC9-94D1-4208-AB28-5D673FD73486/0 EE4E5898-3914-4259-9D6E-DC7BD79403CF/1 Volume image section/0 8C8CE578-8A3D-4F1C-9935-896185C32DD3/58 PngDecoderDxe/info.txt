@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PngDecoderDxe
+Offset: F23A0h
+Full size: 4E32h (20018)
+Header size: 18h (24)
+Body size: 4E1Ah (19994)
+File GUID: C1D5258B-F61A-4C02-9293-A005BEB3EAA1
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 0Fh, valid
+Data checksum: AAh, valid

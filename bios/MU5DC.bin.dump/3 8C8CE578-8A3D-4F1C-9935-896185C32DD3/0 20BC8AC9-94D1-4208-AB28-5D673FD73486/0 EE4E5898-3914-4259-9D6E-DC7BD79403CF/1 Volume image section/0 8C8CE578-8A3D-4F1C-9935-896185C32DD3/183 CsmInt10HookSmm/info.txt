@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: CsmInt10HookSmm
+Offset: 401B98h
+Full size: 1546h (5446)
+Header size: 18h (24)
+Body size: 152Eh (5422)
+File GUID: D8803829-0373-4475-9767-461EDEA28813
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 34h, valid
+Data checksum: AAh, valid

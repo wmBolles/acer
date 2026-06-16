@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: ThunderboltPeim
+Base: F1A278h
+Header address: FFF19068h
+Data address: FFF19080h
+Offset: 59068h
+Full size: 22EAh (8938)
+Header size: 18h (24)
+Body size: 22D2h (8914)
+File GUID: 17E67698-E4C6-4C22-A257-41D98B172741
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 9Eh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TcgMor
+Offset: C5640h
+Full size: 127Eh (4734)
+Header size: 18h (24)
+Body size: 1266h (4710)
+File GUID: AD416CE3-A483-45B1-94C2-4B4E4D575562
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C5h, valid
+Data checksum: AAh, valid

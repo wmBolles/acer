@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: UsbLegacySmm
+Offset: 19E0E0h
+Full size: 3F46h (16198)
+Header size: 18h (24)
+Body size: 3F2Eh (16174)
+File GUID: EF33C296-F64C-4146-AD04-347899702C84
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: 18h, valid
+Data checksum: AAh, valid

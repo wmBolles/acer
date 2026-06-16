@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: SdHostDriver
+Offset: 23C0h
+Full size: 133Fh (4927)
+Header size: 18h (24)
+Body size: 1327h (4903)
+File GUID: CB077E14-EBD8-4AC2-986F-82F3CD4E717E
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

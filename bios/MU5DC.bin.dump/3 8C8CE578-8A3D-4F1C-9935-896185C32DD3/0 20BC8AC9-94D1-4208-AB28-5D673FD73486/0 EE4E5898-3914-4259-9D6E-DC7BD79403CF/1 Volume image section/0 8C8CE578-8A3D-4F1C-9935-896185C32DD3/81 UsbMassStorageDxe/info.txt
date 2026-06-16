@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: UsbMassStorageDxe
+Offset: 195B90h
+Full size: 3532h (13618)
+Header size: 18h (24)
+Body size: 351Ah (13594)
+File GUID: 9FB4B4A7-42C0-4BCD-8540-9BCC6711F83E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: F0h, valid
+Data checksum: AAh, valid

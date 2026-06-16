@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: IrsiRuntimeDxe
+Offset: 292AA8h
+Full size: 8076h (32886)
+Header size: 18h (24)
+Body size: 805Eh (32862)
+File GUID: BA118F88-5B65-4584-9C5A-C2D087F6ED1E
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 88h, valid
+Data checksum: AAh, valid

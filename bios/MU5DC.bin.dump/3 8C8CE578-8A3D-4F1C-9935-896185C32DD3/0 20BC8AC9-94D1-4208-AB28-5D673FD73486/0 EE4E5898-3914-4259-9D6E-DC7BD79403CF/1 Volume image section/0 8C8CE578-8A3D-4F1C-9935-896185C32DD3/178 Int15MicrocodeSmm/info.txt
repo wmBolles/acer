@@ -1,0 +1,13 @@
+Type: File
+Subtype: SMM module
+Text: Int15MicrocodeSmm
+Offset: 3FEA10h
+Full size: 1A72h (6770)
+Header size: 18h (24)
+Body size: 1A5Ah (6746)
+File GUID: 30806658-1E9C-4A13-971E-707A69E958C8
+Type: 0Ah
+Attributes: 00h
+State: F8h
+Header checksum: D4h, valid
+Data checksum: AAh, valid

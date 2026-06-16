@@ -1,0 +1,10 @@
+Type: Section
+Subtype: Raw
+Base: EE5138h
+Header address: FFEE3F28h
+Data address: FFEE3F2Ch
+Offset: 40h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Type: 19h

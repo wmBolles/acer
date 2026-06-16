@@ -1,0 +1,19 @@
+Type: Volume
+Subtype: FFSv2
+Base: EC1210h
+Header address: FFEC0000h
+Data address: FFEC0048h
+Offset: EC1210h
+Full size: 140000h (1310720)
+Header size: 48h (72)
+Body size: 13FFB8h (1310648)
+ZeroVector:
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+FileSystem GUID: 8C8CE578-8A3D-4F1C-9935-896185C32DD3
+Revision: 2
+Attributes: 0007FEFFh
+Erase polarity: 1
+Checksum: E578h, valid
+NumBlocks: 140h (320), valid
+Length: 1000h (4096), valid

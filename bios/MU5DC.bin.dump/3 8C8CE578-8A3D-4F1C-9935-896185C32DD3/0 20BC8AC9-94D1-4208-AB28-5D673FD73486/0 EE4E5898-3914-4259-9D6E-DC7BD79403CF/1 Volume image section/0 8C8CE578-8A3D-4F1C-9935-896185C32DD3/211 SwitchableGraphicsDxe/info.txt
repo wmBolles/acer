@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SwitchableGraphicsDxe
+Offset: 458930h
+Full size: 2932h (10546)
+Header size: 18h (24)
+Body size: 291Ah (10522)
+File GUID: 697CFA95-B1F2-4ED7-A0D2-7AC6E47B3C99
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 7Ch, valid
+Data checksum: AAh, valid

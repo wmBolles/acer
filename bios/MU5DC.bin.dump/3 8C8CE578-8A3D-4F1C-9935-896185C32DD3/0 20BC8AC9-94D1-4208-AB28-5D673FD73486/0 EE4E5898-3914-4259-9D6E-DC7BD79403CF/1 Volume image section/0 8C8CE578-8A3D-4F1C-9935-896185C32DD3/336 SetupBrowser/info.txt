@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: SetupBrowser
+Offset: 9190E8h
+Full size: 233AEh (144302)
+Header size: 18h (24)
+Body size: 23396h (144278)
+File GUID: 4F921013-4F71-4C6C-BCF8-419B2B801932
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 14h, valid
+Data checksum: AAh, valid

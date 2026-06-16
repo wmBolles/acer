@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: TrEEPei
+Base: EE2478h
+Header address: FFEE1268h
+Data address: FFEE1280h
+Offset: 21268h
+Full size: 2C3Ah (11322)
+Header size: 18h (24)
+Body size: 2C22h (11298)
+File GUID: AD49E1DA-5E83-4A0F-ACC7-67F08CAEAA78
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 73h, valid
+Data checksum: AAh, valid

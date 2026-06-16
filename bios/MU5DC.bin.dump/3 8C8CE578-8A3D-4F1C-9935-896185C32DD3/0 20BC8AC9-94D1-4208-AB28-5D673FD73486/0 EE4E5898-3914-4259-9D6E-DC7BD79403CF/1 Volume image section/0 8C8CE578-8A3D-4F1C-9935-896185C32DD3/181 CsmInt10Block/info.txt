@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: CsmInt10Block
+Offset: 400F18h
+Full size: BF6h (3062)
+Header size: 18h (24)
+Body size: BDEh (3038)
+File GUID: 0583D694-AF8B-4BAA-9583-813CEDF40843
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: D6h, valid
+Data checksum: AAh, valid

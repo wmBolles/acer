@@ -1,0 +1,13 @@
+Type: File
+Subtype: PEI module
+Text: PchUfsPei
+Offset: E878h
+Full size: 42Dh (1069)
+Header size: 18h (24)
+Body size: 415h (1045)
+File GUID: 28D68488-5A7C-49AD-8A21-552E26EFF2FF
+Type: 06h
+Attributes: 00h
+State: F8h
+Header checksum: BFh, valid
+Data checksum: AAh, valid

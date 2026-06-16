@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PchInitDxe
+Offset: 4B2FB0h
+Full size: 1014Eh (65870)
+Header size: 18h (24)
+Body size: 10136h (65846)
+File GUID: DE23ACEE-CF55-4FB6-AA77-984AB53DE823
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: E5h, valid
+Data checksum: AAh, valid

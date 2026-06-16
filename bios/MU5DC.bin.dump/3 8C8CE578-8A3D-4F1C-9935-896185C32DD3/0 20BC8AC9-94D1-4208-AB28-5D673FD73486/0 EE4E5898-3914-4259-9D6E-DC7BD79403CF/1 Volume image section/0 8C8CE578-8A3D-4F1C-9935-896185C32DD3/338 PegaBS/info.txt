@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: PegaBS
+Offset: 947848h
+Full size: 5276h (21110)
+Header size: 18h (24)
+Body size: 525Eh (21086)
+File GUID: A7C619FF-9A64-4A89-947B-E7953E2427CB
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: FCh, valid
+Data checksum: AAh, valid

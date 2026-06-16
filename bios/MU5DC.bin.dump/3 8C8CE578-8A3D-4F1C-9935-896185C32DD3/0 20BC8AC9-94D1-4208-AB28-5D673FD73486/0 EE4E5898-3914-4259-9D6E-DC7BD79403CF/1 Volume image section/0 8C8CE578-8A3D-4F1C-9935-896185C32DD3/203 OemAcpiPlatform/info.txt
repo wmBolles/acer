@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OemAcpiPlatform
+Offset: 43FAA0h
+Full size: 9AAh (2474)
+Header size: 18h (24)
+Body size: 992h (2450)
+File GUID: 9B182CEE-AED5-4D95-B2A9-A2CF6CDFEAA8
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 6Bh, valid
+Data checksum: AAh, valid

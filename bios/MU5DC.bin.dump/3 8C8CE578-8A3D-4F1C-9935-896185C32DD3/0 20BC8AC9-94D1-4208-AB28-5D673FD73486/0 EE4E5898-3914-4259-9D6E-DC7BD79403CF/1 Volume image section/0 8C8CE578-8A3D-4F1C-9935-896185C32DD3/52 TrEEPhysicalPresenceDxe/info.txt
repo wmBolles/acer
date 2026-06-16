@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: TrEEPhysicalPresenceDxe
+Offset: E0988h
+Full size: 8116h (33046)
+Header size: 18h (24)
+Body size: 80FEh (33022)
+File GUID: 4D06B832-6987-40F2-B76D-D170B42DB182
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 8Ah, valid
+Data checksum: AAh, valid

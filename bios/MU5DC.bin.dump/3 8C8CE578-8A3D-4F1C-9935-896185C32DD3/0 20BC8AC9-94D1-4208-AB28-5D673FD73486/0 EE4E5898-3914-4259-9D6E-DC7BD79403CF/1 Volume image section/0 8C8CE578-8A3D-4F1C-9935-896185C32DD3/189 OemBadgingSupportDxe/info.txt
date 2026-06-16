@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: OemBadgingSupportDxe
+Offset: 419B28h
+Full size: 4A9Eh (19102)
+Header size: 18h (24)
+Body size: 4A86h (19078)
+File GUID: 12AEDBEA-392D-4E2A-8789-5F6DC6B23661
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: C3h, valid
+Data checksum: AAh, valid

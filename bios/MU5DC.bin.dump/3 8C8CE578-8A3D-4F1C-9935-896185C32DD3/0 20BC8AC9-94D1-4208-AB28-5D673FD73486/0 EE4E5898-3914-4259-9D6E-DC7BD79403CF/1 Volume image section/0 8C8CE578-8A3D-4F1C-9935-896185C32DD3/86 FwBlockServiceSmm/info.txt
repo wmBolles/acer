@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: FwBlockServiceSmm
+Offset: 1AE690h
+Full size: 4446h (17478)
+Header size: 18h (24)
+Body size: 442Eh (17454)
+File GUID: 74D936FA-D8BD-4633-B64D-6424BDD23D24
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 64h, valid
+Data checksum: AAh, valid

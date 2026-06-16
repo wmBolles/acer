@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: ED6D70h
+Header address: FFED5B60h
+Data address: FFED5B64h
+Offset: 378h
+Full size: 56h (86)
+Header size: 4h (4)
+Body size: 52h (82)
+Type: 15h
+Text: ReadOnlyVariableOnReadOnlyVariable2Thunk

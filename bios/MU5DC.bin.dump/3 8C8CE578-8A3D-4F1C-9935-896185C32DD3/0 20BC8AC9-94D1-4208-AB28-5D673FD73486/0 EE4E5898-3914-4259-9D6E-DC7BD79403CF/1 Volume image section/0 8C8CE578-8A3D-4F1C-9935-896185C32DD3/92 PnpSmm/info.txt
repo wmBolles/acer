@@ -1,0 +1,13 @@
+Type: File
+Subtype: Combined SMM/DXE
+Text: PnpSmm
+Offset: 1CA0D8h
+Full size: 5F62h (24418)
+Header size: 18h (24)
+Body size: 5F4Ah (24394)
+File GUID: CC1BAA36-11EB-45CC-9ADC-7565E273AC70
+Type: 0Ch
+Attributes: 00h
+State: F8h
+Header checksum: 9Eh, valid
+Data checksum: AAh, valid

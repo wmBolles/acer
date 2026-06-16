@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: A01DxeInstallHook
+Offset: 5A4F78h
+Full size: 373Eh (14142)
+Header size: 18h (24)
+Body size: 3726h (14118)
+File GUID: 310B3904-0728-4977-A90C-06B8ECD85A9F
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: ECh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,16 @@
+Type: File
+Subtype: PEI module
+Text: EarlyPlatformInit
+Base: F1D778h
+Header address: FFF1C568h
+Data address: FFF1C580h
+Offset: 5C568h
+Full size: 18AEh (6318)
+Header size: 18h (24)
+Body size: 1896h (6294)
+File GUID: 79A9ACFA-D50A-4993-9C3D-582B0A3726BE
+Type: 06h
+Attributes: 10h
+State: F8h
+Header checksum: 20h, valid
+Data checksum: AAh, valid

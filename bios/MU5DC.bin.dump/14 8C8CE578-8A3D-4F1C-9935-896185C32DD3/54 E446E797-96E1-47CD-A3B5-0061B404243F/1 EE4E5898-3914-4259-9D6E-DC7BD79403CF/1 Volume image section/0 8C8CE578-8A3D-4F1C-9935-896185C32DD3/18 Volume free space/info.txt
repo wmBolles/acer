@@ -1,0 +1,6 @@
+Type: Free space
+Subtype: 
+Offset: 117D0h
+Full size: E830h (59440)
+Body size: E830h (59440)
+

@@ -1,0 +1,11 @@
+Type: Section
+Subtype: UI
+Base: EE6AF0h
+Header address: FFEE58E0h
+Data address: FFEE58E4h
+Offset: 19F8h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Type: 15h
+Text: S3Resume2Pei

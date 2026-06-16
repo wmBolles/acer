@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: LegacyBiosDxe
+Offset: 247D78h
+Full size: F262h (62050)
+Header size: 18h (24)
+Body size: F24Ah (62026)
+File GUID: F122A15C-C10B-4D54-8F48-60F4F06DD1AD
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 22h, valid
+Data checksum: AAh, valid

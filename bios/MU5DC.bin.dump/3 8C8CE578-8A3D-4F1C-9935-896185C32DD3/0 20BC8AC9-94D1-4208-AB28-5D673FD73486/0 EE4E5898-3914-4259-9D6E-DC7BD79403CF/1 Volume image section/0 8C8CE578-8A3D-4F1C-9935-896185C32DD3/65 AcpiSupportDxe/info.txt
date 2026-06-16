@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: AcpiSupportDxe
+Offset: 12FBA8h
+Full size: 5336h (21302)
+Header size: 18h (24)
+Body size: 531Eh (21278)
+File GUID: 506533A6-E626-4500-B14F-17939C0E5B60
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 82h, valid
+Data checksum: AAh, valid

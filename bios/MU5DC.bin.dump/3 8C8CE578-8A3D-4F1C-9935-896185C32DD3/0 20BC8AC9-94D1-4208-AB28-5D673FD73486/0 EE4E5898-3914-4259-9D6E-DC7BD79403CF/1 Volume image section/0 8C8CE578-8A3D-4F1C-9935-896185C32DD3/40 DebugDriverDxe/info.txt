@@ -1,0 +1,13 @@
+Type: File
+Subtype: DXE driver
+Text: DebugDriverDxe
+Offset: A7FB0h
+Full size: 4E6h (1254)
+Header size: 18h (24)
+Body size: 4CEh (1230)
+File GUID: 7C380900-1B96-4615-978E-89E02E2C89D0
+Type: 07h
+Attributes: 00h
+State: F8h
+Header checksum: 05h, valid
+Data checksum: AAh, valid

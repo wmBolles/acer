@@ -93,3 +93,31 @@ sudo apt install ghidra
 ```
 or
 https://github.com/NationalSecurityAgency/ghidra/releases
+unzip the zip again and cd the ghidra folder and run ```bash ./ghidraRUN```
+<img width="504" height="871" alt="Screenshot From 2026-06-16 06-37-24" src="https://github.com/user-attachments/assets/ef0de38b-c0e3-4153-ad2f-ae884a5c3e94" />
+## 1. Create Your Workspace
+### In the Ghidra main window, click File -> New Project...
+### Select Non-Shared Project and click Next.
+### For the Project Directory, click the ... button and select your ~/acer folder path.
+### Give it a Project Name (e.g., Acer_Firmware) and hit Finish.
+## 2. Import the Raw Binary
+### Click File -> Import File... (or press I).
+### Navigate to "/acer/bios/" path and select your isolated ec_firmware.bin.
+### In the Import dialog that pops up, verify the Format is set to Raw Binary.
+## 3. The Critical Step: Selecting the Architecture
+Because it's a raw binary, Ghidra's "Language" field will likely be blank or defaulting to x86. You must change this, or the code will look like total gibberish.
+### Click the ... button next to the Language field.
+Acer motherboards from this generation (especially Nitro and Aspire lines) almost exclusively use ENE microcontrollers (like the KB9022), which run on an older instruction set.
+### In the filter box, type 8051.
+### Select the standard 8051 / default / 16 (or 24) bit architecture and hit OK. (Note: If you later discover the code won't decompile, your specific board might use a newer Nuvoton chip, which would require deleting the file and re-importing it as ARM Cortex).
+Click OK to import.
+<img width="797" height="560" alt="image" src="https://github.com/user-attachments/assets/d6231357-aa15-4600-941e-291e81435c3c" />
+## 4. Run the Auto-Analysis
+### In your Active Project window, you will now see ec_firmware.bin. Double-click it.
+<img width="797" height="560" alt="Screenshot From 2026-06-16 06-45-26" src="https://github.com/user-attachments/assets/e1a38e24-1b1e-43a7-96d6-dfb88947f511" />
+Click Yes.
+When the next window pops up showing a massive checklist of different analyzers, don't change anything. Just leave all the default boxes checked and hit Analyze at the bottom.
+<img width="602" height="196" alt="Screenshot From 2026-06-16 06-45-49" src="https://github.com/user-attachments/assets/3dbfb9c1-89f5-49d6-8ad4-55b9b9cbc88c" />
+<img width="1050" height="650" alt="Screenshot From 2026-06-16 06-47-37" src="https://github.com/user-attachments/assets/e628145a-bd52-4764-bdb2-9f25e31ae253" />
+
+You've got the exact right window open. But right now, you are staring at a blank text box, and because this is stripped vendor firmware, searching for a friendly text string like "SYS_PWROK" or "VRM_READY" is going to return absolutely zero results.

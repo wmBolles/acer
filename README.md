@@ -37,3 +37,59 @@ capabilities:    pci upgrade shadowing cdboot bootselect edd int13floppynec int1
 int13floppy1200 int13floppy720 int13floppy2880 int9keyboard int10video acpi usb biosbootspecification uefi
 ```
 <img width="2496" height="1493" alt="bios" src="https://github.com/user-attachments/assets/207001f1-2236-4b81-a0b8-7181fa09af89" />
+
+# Reverse engineering the Acer Predator G9-793 firmware.
+### 1. Downloading the BIOS
+https://www.acer.com/us-en/support/product-support/G9-793/NH.Q1VEB.001/downloads
+<img width="1434" height="363" alt="acer" src="https://github.com/user-attachments/assets/da33092a-3da2-426a-b1b8-e714f3b550a5" />
+### Ensure you have a robust archive tool installed:
+```bash
+sudo apt update
+sudo apt install p7zip-full
+```
+unzip the bios*.zip
+```bash
+unzip BIOS_Acer_1.14_A_A.zip
+```
+### Run ls to see what popped out. You should see a BIOS_114.exe file.
+```bash
+7z x BIOS_114.exe -obios
+```
+<img width="1474" height="834"  src="https://github.com/user-attachments/assets/b7ee5b66-74cb-46ea-b60a-0c9f20214b2d" />
+
+### Download and Prep UEFIExtract
+Run these commands to download the verified .zip, unpack it, and make the tool executable:
+```bash
+wget https://github.com/LongSoft/UEFITool/releases/download/A74/UEFIExtract_NE_A74_x64_linux.zip
+unzip UEFIExtract_NE_A74_x64_linux.zip
+chmod +x uefiextract
+```
+### Dump the BIOS Payload
+Now, point the extractor at the primary BIOS payload. Using the all flag tells the tool to unpack everything and generate a text map of the file structure.
+```bash
+thef@th3f:~/acer$ ./uefiextract bios/MU5DC.bin all
+parseRawArea: volume size stored in header 41000h differs from calculated using block map 8000h
+parseFileHeader: invalid data checksum 0Bh, should be 09h
+parseVolumeNonUefiData: non-UEFI data found in volume free space
+parseVolumeHeader: unaligned volume
+parseVolumeHeader: unaligned volume
+findFitRecursive: FIT table candidate found, but not referenced from the last VTF
+findFitRecursive: real FIT table found at physical address FFEC0100h
+---------------------------------------------------------------------------
+     Address      |   Size    |  Ver  | CS  |          Type / Info
+---------------------------------------------------------------------------
+_FIT_             | 00000060h | 0100h | C1h | FIT Header |
+00000000FFDE0000h | 00015000h | 0100h | 00h | Microcode | CpuSignature: 000406E2h, Revision: 00000026h, Date: 01.04.2015
+00000000FFDF5000h | 00017400h | 0100h | 00h | Microcode | CpuSignature: 000406E3h, Revision: 00000074h, Date: 05.01.2016
+00000000FFE0C800h | 00013C00h | 0100h | 00h | Microcode | CpuSignature: 000506E0h, Revision: 00000012h, Date: 24.09.2014
+00000000FFE20800h | 00012800h | 0100h | 00h | Microcode | CpuSignature: 000506E1h, Revision: 0000001Eh, Date: 18.03.2015
+00000000FFE33000h | 00018400h | 0100h | 00h | Microcode | CpuSignature: 000506E3h, Revision: 000000C2h, Date: 16.11.2017
+```
+
+# The Final Phase: Disassembly
+```bash
+sudo apt update
+sudo apt install ghidra
+```
+or
+https://github.com/NationalSecurityAgency/ghidra/releases
